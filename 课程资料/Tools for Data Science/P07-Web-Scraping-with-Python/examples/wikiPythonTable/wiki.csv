@@ -1,0 +1,71 @@
+datatype,mutable,description,syntax
+str,Immutable,A character string: Sequence of Unicode codepoints.,"'Wikipedia' 
+ ""Wikipedia"" 
+ """"""Spanning 
+multiple 
+lines"""""""
+bytearray,Mutable,Sequence of bytes.,"bytearray(b'Some ASCII') 
+ bytearray(b""Some ASCII"") 
+ bytearray([119, 105, 107, 105])"
+bytes,Immutable,Sequence of bytes.,"b'Some ASCII' 
+ b""Some ASCII"" 
+ bytes([119, 105, 107, 105])"
+list,Mutable,"List, can contain mixed types.","[4.0, 'string', True]"
+tuple,Immutable,Can contain mixed types.,"(4.0, 'string', True)"
+set,Mutable,"Unordered set, contains no duplicates. Can contain mixed types as long as they are hashable.","{4.0, 'string', True}"
+frozenset,Immutable,"Unordered set, contains no duplicates. Can contain mixed types as long as they are hashable.","frozenset([4.0, 'string', True])"
+dict,Mutable,"Associative array (or dictionary) of key and value pairs.
+Can contain mixed types (keys and values). Keys must be a hashable type.","{'key1': 1.0, 3: False}"
+int,Immutable,Integer of unlimited magnitude.[58],42
+float,Immutable,Floating point number (system-defined precision).,3.1415927
+complex,Immutable,Complex number with real and imaginary parts.,3+2.7j
+bool,Immutable,Boolean value.,"True 
+ False"
+datatype,mutable,description,syntax
+str,Immutable,A character string: Sequence of Unicode codepoints.,"'Wikipedia' 
+ ""Wikipedia"" 
+ """"""Spanning 
+multiple 
+lines"""""""
+bytearray,Mutable,Sequence of bytes.,"bytearray(b'Some ASCII') 
+ bytearray(b""Some ASCII"") 
+ bytearray([119, 105, 107, 105])"
+bytes,Immutable,Sequence of bytes.,"b'Some ASCII' 
+ b""Some ASCII"" 
+ bytes([119, 105, 107, 105])"
+list,Mutable,"List, can contain mixed types.","[4.0, 'string', True]"
+tuple,Immutable,Can contain mixed types.,"(4.0, 'string', True)"
+set,Mutable,"Unordered set, contains no duplicates. Can contain mixed types as long as they are hashable.","{4.0, 'string', True}"
+frozenset,Immutable,"Unordered set, contains no duplicates. Can contain mixed types as long as they are hashable.","frozenset([4.0, 'string', True])"
+dict,Mutable,"Associative array (or dictionary) of key and value pairs.
+Can contain mixed types (keys and values). Keys must be a hashable type.","{'key1': 1.0, 3: False}"
+int,Immutable,Integer of unlimited magnitude.[58],42
+float,Immutable,Floating point number (system-defined precision).,3.1415927
+complex,Immutable,Complex number with real and imaginary parts.,3+2.7j
+bool,Immutable,Boolean value.,"True 
+ False"
+ellipsis,,An ellipsis placeholder to be used as an index in NumPy arrays.,...
+datatype,mutable,description,syntax
+str,Immutable,A character string: Sequence of Unicode codepoints.,"'Wikipedia' 
+ ""Wikipedia"" 
+ """"""Spanning 
+multiple 
+lines"""""""
+bytearray,Mutable,Sequence of bytes.,"bytearray(b'Some ASCII') 
+ bytearray(b""Some ASCII"") 
+ bytearray([119, 105, 107, 105])"
+bytes,Immutable,Sequence of bytes.,"b'Some ASCII' 
+ b""Some ASCII"" 
+ bytes([119, 105, 107, 105])"
+list,Mutable,"List, can contain mixed types.","[4.0, 'string', True]"
+tuple,Immutable,Can contain mixed types.,"(4.0, 'string', True)"
+set,Mutable,"Unordered set, contains no duplicates. Can contain mixed types as long as they are hashable.","{4.0, 'string', True}"
+frozenset,Immutable,"Unordered set, contains no duplicates. Can contain mixed types as long as they are hashable.","frozenset([4.0, 'string', True])"
+dict,Mutable,"Associative array (or dictionary) of key and value pairs.
+Can contain mixed types (keys and values). Keys must be a hashable type.","{'key1': 1.0, 3: False}"
+int,Immutable,Integer of unlimited magnitude.[58],42
+float,Immutable,Floating point number (system-defined precision).,3.1415927
+complex,Immutable,Complex number with real and imaginary parts.,3+2.7j
+bool,Immutable,Boolean value.,"True 
+ False"
+ellipsis,,An ellipsis placeholder to be used as an index in NumPy arrays.,...
