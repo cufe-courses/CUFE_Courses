@@ -1,0 +1,4 @@
+Overview
+
+We introduce Game Theory by playing a game. We organize the game into players, their strategies, and their goals or payoffs; and we learn that we should decide what our goals are before we make choices. With some plausible payoffs, our game is a prisoners' dilemma. We learn that we should never choose a dominated strategy; but that rational play by rational players can lead to bad outcomes. We discuss some prisoners' dilemmas in the real world and some possible real-world remedies. With other plausible payoffs, our game is a coordination problem and has very different outcomes: so different payoffs matter. We often need to think, not only about our own payoffs, but also others' payoffs. We should put ourselves in others' shoes and try to predict what they will do. This is the essence of strategic thinking.
+

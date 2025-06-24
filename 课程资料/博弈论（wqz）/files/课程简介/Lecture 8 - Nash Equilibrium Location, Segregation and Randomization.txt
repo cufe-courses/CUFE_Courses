@@ -1,0 +1,4 @@
+Overview
+
+We first complete our discussion of the candidate-voter model showing, in particular, that, in equilibrium, two candidates cannot be too far apart. Then we play and analyze Schelling's location game. We discuss how segregation can occur in society even if no one desires it. We also learn that seemingly irrelevant details of a model can matter. We consider randomizations first by a central authority (such as in a bussing policy), and then decentralized randomization by the individuals themselves, "mixed strategies." Finally, we look at rock, paper, scissors to see an example of a mixed-strategy equilibrium to a game.
+

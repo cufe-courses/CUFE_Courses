@@ -1,0 +1,4 @@
+Overview
+
+We apply the main idea from last time, iterative deletion of dominated strategies, to analyze an election where candidates can choose their policy positions. We then consider how good is this classic model as a description of the real political process, and how we might build on it to improve it. Toward the end of the class, we introduce a new idea to get us beyond iterative deletion. We think about our beliefs about what the other player is going to do, and then ask what is the best strategy for us to choose given those beliefs?
+

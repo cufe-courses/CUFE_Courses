@@ -1,0 +1,4 @@
+Overview
+
+At the start of the lecture, we introduce the "formal ingredients" of a game: the players, their strategies and their payoffs. Then we return to the main lessons from last time: not playing a dominated strategy; and putting ourselves into others' shoes. We apply these first to defending the Roman Empire against Hannibal; and then to picking a number in the game from last time. We learn that, when you put yourself in someone else's shoes, you should consider not only their goals, but also how sophisticated are they (are they rational?), and how much do they know about you (do they know that you are rational?). We introduce a new idea: the iterative deletion of dominated strategies. Finally, we discuss the difference between something being known and it being commonly known.
+

@@ -1,0 +1,3 @@
+Overview
+
+We first discuss Zermelo's theorem: that games like tic-tac-toe or chess have a solution. That is, either there is a way for player 1 to force a win, or there is a way for player 1 to force a tie, or there is a way for player 2 to force a win. The proof is by induction. Then we formally define and informally discuss both perfect information and strategies in such games. This allows us to find Nash equilibria in sequential games. But we find that some Nash equilibria are inconsistent with backward induction. In particular, we discuss an example that involves a threat that is believed in an equilibrium but does not seem credible.

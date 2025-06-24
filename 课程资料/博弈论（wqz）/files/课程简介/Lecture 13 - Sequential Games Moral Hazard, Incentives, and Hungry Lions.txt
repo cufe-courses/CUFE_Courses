@@ -1,0 +1,4 @@
+Overview
+
+We consider games in which players move sequentially rather than simultaneously, starting with a game involving a borrower and a lender. We analyze the game using "backward induction." The game features moral hazard: the borrower will not repay a large loan. We discuss possible remedies for this kind of problem. One remedy involves incentive design: writing contracts that give the borrower an incentive to repay. Another involves commitment strategies; in this case providing collateral. We consider other commitment strategies such as burning boats. But the key lesson of the day is the idea of backward induction.
+

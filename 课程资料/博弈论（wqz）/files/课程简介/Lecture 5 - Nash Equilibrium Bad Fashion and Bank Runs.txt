@@ -1,0 +1,4 @@
+Overview
+
+We first define formally the new concept from last time: Nash equilibrium. Then we discuss why we might be interested in Nash equilibrium and how we might find Nash equilibrium in various games. As an example, we play a class investment game to illustrate that there can be many equilibria in social settings, and that societies can fail to coordinate at all or may coordinate on a bad equilibrium. We argue that coordination problems are common in the real world. Finally, we discuss why in such coordination problems--unlike in prisoners' dilemmas--simply communicating may be a remedy.
+
