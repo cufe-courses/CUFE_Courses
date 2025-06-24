@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: 商超对蔬菜类产品的定价与采购决策.aux
+The style file: gbt7714-numerical.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: bib/ref.bib
+Warning--empty year in SeDuZhiBiao
+Warning--empty journal in bishnuUniformityPointSamples2014
+Warning--empty author in YanSeChaiYi2021
+You've used 10 entries,
+            4281 wiz_defined-function locations,
+            956 strings with 8538 characters,
+and the built_in function-call counts, 25520 in all, are:
+= -- 956
+> -- 2302
+< -- 3141
++ -- 1081
+- -- 308
+* -- 308
+:= -- 3782
+add.period$ -- 31
+call.type$ -- 10
+change.case$ -- 15
+chr.to.int$ -- 934
+cite$ -- 14
+duplicate$ -- 182
+empty$ -- 569
+format.name$ -- 87
+if$ -- 6561
+int.to.chr$ -- 2
+int.to.str$ -- 11
+missing$ -- 0
+newline$ -- 61
+num.names$ -- 27
+pop$ -- 699
+preamble$ -- 1
+purify$ -- 10
+quote$ -- 0
+skip$ -- 2462
+stack$ -- 0
+substring$ -- 1501
+swap$ -- 19
+text.length$ -- 71
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 128
+warning$ -- 3
+while$ -- 102
+width$ -- 0
+write$ -- 142
+(There were 3 warnings)

@@ -1,0 +1,69 @@
+\begin{thebibliography}{10}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\else
+  \urlstyle{same}\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \DeclareUrlCommand\doi{\urlstyle{rm}}\else
+  \providecommand\doi[1]{\href{https://doi.org/#1}{\nolinkurl{#1}}}\fi
+
+\bibitem[Bishnu et~al.(2014)Bishnu, Desai, Ghosh, Goswami, and
+  Paul]{bishnuUniformityPointSamples2014}
+BISHNU~A, DESAI~S, GHOSH~A, et~al.
+\newblock {Uniformity of point samples in metric spaces using gap
+  ratio}\allowbreak[J].
+\newblock 2014.
+
+\bibitem[罗传文(2004{\natexlab{a}})]{luoDianKongJianFenXiFenWeiYuJunYunDu2004}
+罗传文.
+\newblock {点空间分析\textemdash\textemdash
+  分维与均匀度}\allowbreak[J].
+\newblock 科技导报, 2004\penalty0 (10):\penalty0 51-54.
+
+\bibitem[罗传文(2004{\natexlab{b}})]{luoJunYunDuLiLunZaiFenXingHeHunDunYanJiuZhongDeYingYong2004}
+罗传文.
+\newblock {均匀度理论在分形和混沌研究中的应用}\allowbreak[J].
+\newblock 科技导报, 2004\penalty0 (12):\penalty0 31-35.
+
+\bibitem[Onnes()]{SeDuZhiBiao}
+ONNES~H.
+\newblock 色度指标\allowbreak[EB/OL].
+\newblock \url{https://www.compuphase.com/cmetric.htm}.
+
+\bibitem[申洪(1993)]{shenErWeiLiZiFenBuJunYunDuCeSuanFangFaYanJiu1993}
+申洪.
+\newblock {二维粒子分布均匀度测算方法研究}\allowbreak[J].
+\newblock 数理医药学杂志, 1993\penalty0 (01):\penalty0 5-8.
+
+\bibitem[王可\ 等(2005)王可, 陆长德, and
+  乐万德]{wangSeCaiXiangSiXingDuLiangDeYanJiuYuYingYong2005}
+王可, 陆长德, 乐万德.
+\newblock {色彩相似性度量的研究与应用}\allowbreak[J].
+\newblock 计算机应用研究, 2005\penalty0 (10):\penalty0 168-170.
+
+\bibitem[吴旭虹\ 等(2010)吴旭虹 and
+  陈昭炯]{wuJiYuSeCaiChuanDiDeTuXiangMaSaiKeSuanFaYanJiu2010}
+吴旭虹, 陈昭炯.
+\newblock {基于色彩传递的图像马赛克算法研究}\allowbreak[J].
+\newblock 计算机工程, 2010, 36\penalty0 (12):\penalty0 219-220+223.
+
+\bibitem[谢君廷\ 等(2008)谢君廷 and
+  王小华]{xieYiZhongJiYuHSVKongJianDeYanSeXiangSiDuJiSuanFangFa2008}
+谢君廷, 王小华.
+\newblock
+  {一种基于HSV空间的颜色相似度计算方法}\allowbreak[J/OL].
+\newblock 杭州电子科技大学学报, 2008\penalty0 (01):\penalty0 60-63.
+\newblock DOI: \doi{10.13954/j.cnki.hdu.2008.01.019}.
+
+\bibitem[阳操(2017)]{yangMaSaiKeZiDongPinTuShengChanXianGuanJianJiShuYanJiu2017b}
+阳操.
+\newblock {马赛克自动拼图生产线关键技术研究}\allowbreak[D].
+\newblock [出版地不详]: 广东工业大学, 2017.
+
+\bibitem[Yan(2021)]{YanSeChaiYi2021}
+{颜色差异}\allowbreak[J/OL].
+\newblock 维基百科，自由的百科全书, 2021.
+\newblock
+  \url{https://zh.wikipedia.org/wiki/%E9%A2%9C%E8%89%B2%E5%B7%AE%E5%BC%82#CIE76}.
+
+\end{thebibliography}

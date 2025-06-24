@@ -1,0 +1,30 @@
+\contentsline {section}{\numberline {一、}问题重述}{4}{section.1}%
+\contentsline {subsection}{\numberline {1\,.\,1}问题背景}{4}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1\,.\,2}问题要求}{4}{subsection.1.2}%
+\contentsline {section}{\numberline {二、}问题分析}{4}{section.2}%
+\contentsline {subsection}{\numberline {2\,.\,1}问题一分析}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2\,.\,2}问题二分析}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2\,.\,3}问题三分析}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2\,.\,4}问题四分析}{4}{subsection.2.4}%
+\contentsline {section}{\numberline {三、}模型假设}{4}{section.3}%
+\contentsline {section}{\numberline {四、}符号说明}{4}{section.4}%
+\contentsline {section}{\numberline {五、}问题一模型}{4}{section.5}%
+\contentsline {subsection}{\numberline {5\,.\,1}模型的建立}{4}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5\,.\,1\,.\,1}模型的准备}{4}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5\,.\,1\,.\,2}算法描述}{4}{subsubsection.5.1.2}%
+\contentsline {subsection}{\numberline {5\,.\,2}模型的求解}{4}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5\,.\,3}求解结果}{4}{subsection.5.3}%
+\contentsline {section}{\numberline {六、}问题二模型}{4}{section.6}%
+\contentsline {subsection}{\numberline {6\,.\,1}模型的建立}{4}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6\,.\,2}模型的求解}{4}{subsection.6.2}%
+\contentsline {section}{\numberline {七、}问题三模型}{4}{section.7}%
+\contentsline {subsection}{\numberline {7\,.\,1}模型的建立}{4}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7\,.\,2}模型的求解}{4}{subsection.7.2}%
+\contentsline {section}{\numberline {八、}模型的评价}{4}{section.8}%
+\contentsline {subsection}{\numberline {8\,.\,1}模型的优点}{4}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8\,.\,2}模型的缺点}{5}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8\,.\,3}模型的推广}{5}{subsection.8.3}%
+\contentsline {section}{参考文献}{5}{section*.2}%
+\contentsline {section}{附录 \numberline {A}文件列表}{6}{appendix.a.A}%
+\contentsline {section}{附录 \numberline {B}代码}{6}{appendix.a.B}%
+\contentsfinish 
