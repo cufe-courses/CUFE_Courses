@@ -4,9 +4,9 @@
 
 
 
-[![](https://img.shields.io/github/watchers/cufe-courses/CUFE_Courses.svg)](https://github.com/CoolPhilChen/SJTU-Courses/watchers)
+[![](https://img.shields.io/github/watchers/cufe-courses/CUFE_Courses.svg)](https://github.com/cufe-courses/CUFE_Courses/watchers)
 [![](https://img.shields.io/github/stars/cufe-courses/CUFE_Courses.svg)](https://github.com/cufe-courses/CUFE_Courses/stargazers)
-[![](https://img.shields.io/github/forks/cufe-courses/CUFE_Courses.svg)](https://github.com/CoolPhilChen/SJTU-Courses/network/members)
+[![](https://img.shields.io/github/forks/cufe-courses/CUFE_Courses.svg)](https://github.com/cufe-courses/CUFE_Courses/network/members)
 ![](https://img.shields.io/github/repo-size/cufe-courses/CUFE_Courses.svg)
 
 ## 前言
