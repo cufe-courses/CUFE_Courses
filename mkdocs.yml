@@ -2,7 +2,7 @@
 
 # 网站元数据
 site_name: 中央财经大学课程资料共享计划 # 网站左上角显示的标题
-site_url: https://luzhiyu-econ.github.io/ # 你的网站最终的URL
+site_url: https://cufe-courses.github.io/CUFE_Courses # 你的网站最终的URL
 site_author: cufe-courses # 作者名
 site_description: '关于课程的笔记、资料与评价'
 
