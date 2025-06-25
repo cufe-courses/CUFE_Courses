@@ -42,3 +42,6 @@ settings.json
 # OS generated
 .DS_Store
 Thumbs.db
+
+#sites
+site/
