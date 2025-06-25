@@ -1,0 +1,4 @@
+Overview
+
+We discuss evolution and game theory, and introduce the concept of evolutionary stability. We ask what kinds of strategies are evolutionarily stable, and how this idea from biology relates to concepts from economics like domination and Nash equilibrium. The informal argument relating these ideas toward at the end of his lecture contains a notation error [U( ,S') should be U(S', )]. A more formal argument is provided in the supplemental notes.
+

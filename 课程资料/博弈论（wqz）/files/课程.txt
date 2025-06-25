@@ -1,0 +1,11 @@
+About the Course
+This course is an introduction to game theory and strategic thinking. Ideas such as dominance, backward induction, Nash equilibrium, evolutionary stability, commitment, credibility, asymmetric information, adverse selection, and signaling are discussed and applied to games played in class and to examples drawn from economics, politics, the movies, and elsewhere.
+
+Course Structure
+This Yale College course, taught on campus twice per week for 75 minutes, was recorded for Open Yale Courses in Fall 2007.
+
+Professor
+Ben Polak, Professor of Economics and Management
+
+Description
+This course is an introduction to game theory and strategic thinking. Ideas such as dominance, backward induction, Nash equilibrium, evolutionary stability, commitment, credibility, asymmetric information, adverse selection, and signaling are discussed and applied to games played in class and to examples drawn from economics, politics, the movies, and elsewhere.

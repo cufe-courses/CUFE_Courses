@@ -1,0 +1,4 @@
+Overview
+
+We apply the idea of evolutionary stability to consider the evolution of social conventions. Then we consider games that involve aggressive (Hawk) and passive (Dove) strategies, finding that sometimes, evolutionary populations are mixed. We discuss how such games can help us to predict how behavior might vary across settings. Finally, we consider a game in which there is no evolutionary stable population and discuss an example from nature.
+

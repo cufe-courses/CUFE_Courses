@@ -1,0 +1,4 @@
+Overview
+
+We first consider the alternative "Bertrand" model of imperfect competition between two firms in which the firms set prices rather than setting quantities. Then we consider a richer model in which firms still set prices but in which the goods they produce are not identical. We model the firms as stores that are on either end of a long road or line. Customers live along this line. Then we return to models of strategic politics in which it is voters that are spread along a line. This time, however, we do not allow candidates to choose positions: they can only choose whether or not to enter the election. We play this "candidate-voter game" in the class, and we start to analyze both as a lesson about the notion of equilibrium and a lesson about politics.
+

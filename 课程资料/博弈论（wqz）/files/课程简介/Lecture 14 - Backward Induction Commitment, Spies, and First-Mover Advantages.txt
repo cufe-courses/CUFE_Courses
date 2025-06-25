@@ -1,0 +1,4 @@
+Overview
+
+We first apply our big idea--backward induction--to analyze quantity competition between firms when play is sequential, the Stackelberg model. We do this twice: first using intuition and then using calculus. We learn that this game has a first-mover advantage, and that it comes commitment and from information in the game rather than the timing per se. We notice that in some games having more information can hurt you if other players know you will have that information and hence alter their behavior. Finally, we show that, contrary to myth, many games do not have first-mover advantages.
+

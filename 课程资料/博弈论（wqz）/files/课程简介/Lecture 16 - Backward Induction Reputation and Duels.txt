@@ -1,0 +1,3 @@
+Overview
+
+In the first half of the lecture, we consider the chain-store paradox. We discuss how to build the idea of reputation into game theory; in particular, in setting like this where a threat or promise would otherwise not be credible. The key idea is that players may not be completely certain about other players' payoffs or even their rationality. In the second half of the lecture, we stage a duel, a game of pre-emption. The key strategic question in such games is when; in this case, when to fire. We use two ideas from earlier lectures, dominance and backward induction, to analyze the game. Finally we discuss two biases found in Americans: overconfidence and over-valuing being pro-active.

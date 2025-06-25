@@ -1,0 +1,4 @@
+Overview
+
+We develop three different interpretations of mixed strategies in various contexts: sport, anti-terrorism strategy, dating, paying taxes and auditing taxpayers. One interpretation is that people literally randomize over their choices. Another is that your mixed strategy represents my belief about what you might do. A third is that the mixed strategy represents the proportions of people playing each pure strategy. Then we discuss some implications of the mixed equilibrium in games; in particular, we look how the equilibrium changes in the tax-compliance/auditor game as we increase the penalty for cheating on your taxes.
+

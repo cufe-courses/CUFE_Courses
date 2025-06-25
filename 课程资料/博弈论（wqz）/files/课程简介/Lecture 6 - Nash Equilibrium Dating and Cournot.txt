@@ -1,0 +1,4 @@
+Overview
+
+We apply the notion of Nash Equilibrium, first, to some more coordination games; in particular, the Battle of the Sexes. Then we analyze the classic Cournot model of imperfect competition between firms. We consider the difficulties in colluding in such settings, and we discuss the welfare consequences of the Cournot equilibrium as compared to monopoly and perfect competition.
+

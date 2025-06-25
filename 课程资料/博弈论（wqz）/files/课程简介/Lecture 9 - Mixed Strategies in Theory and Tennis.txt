@@ -1,0 +1,4 @@
+Overview
+
+We continue our discussion of mixed strategies. First we discuss the payoff to a mixed strategy, pointing out that it must be a weighed average of the payoffs to the pure strategies used in the mix. We note a consequence of this: if a mixed strategy is a best response, then all the pure strategies in the mix must themselves be best responses and hence indifferent. We use this idea to find mixed-strategy Nash equilibria in a game within a game of tennis.
+

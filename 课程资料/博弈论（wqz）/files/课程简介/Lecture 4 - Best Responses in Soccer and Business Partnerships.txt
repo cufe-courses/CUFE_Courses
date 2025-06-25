@@ -1,0 +1,4 @@
+Overview
+
+We continue the idea (from last time) of playing a best response to what we believe others will do. More particularly, we develop the idea that you should not play a strategy that is not a best response for any belief about others' choices. We use this idea to analyze taking a penalty kick in soccer. Then we use it to analyze a profit-sharing partnership. Toward the end, we introduce a new notion: Nash Equilibrium.
+

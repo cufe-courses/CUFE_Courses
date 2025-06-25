@@ -1,0 +1,3 @@
+Overview
+
+We develop a simple model of bargaining, starting from an ultimatum game (one person makes the other a take it or leave it offer), and building up to alternating offer bargaining (where players can make counter-offers). On the way, we introduce discounting: a dollar tomorrow is worth less than a dollar today. We learn that, if players are equally patient, if offers can be in rapid succession, and if each side knows how much the game is worth to the other side, then the first offer is for an equal split of the pie and this offer is accepted. But this result depends on those assumptions; for example, bargaining power may depend on wealth.
