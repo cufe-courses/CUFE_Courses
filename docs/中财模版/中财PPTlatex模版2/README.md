@@ -1,0 +1,3 @@
+本模版在@[ShwayanHu](https://github.com/ShwayanHu/CUFE_course_thesis_LaTeX_template)的latex论文模板上增加一些自以为是的美化，原作者beamer模版也已经转存在[本项目](https://github.com/luzhiyu-econ/CUFE-courses/tree/main/%E4%B8%AD%E8%B4%A2%E6%A8%A1%E7%89%88/%E4%B8%AD%E8%B4%A2PPTlatex%E6%A8%A1%E7%89%88)，如有侵权联系删除。
+
+![参考](参考.png)
