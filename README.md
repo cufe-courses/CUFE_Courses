@@ -15,7 +15,7 @@
 
 在课程的学习中，存在着大量的未知与难点。是否应该选这门课、课程的内容是什么、往年考试考过什么样的内容？这些问题对于一个新同学而言往往是无从得知的。而即便有门路的同学，也常常需要花费不必要的费用来购买树洞的二手资料与信息。如何公开分享课程信息，让自己的课程笔记发挥余热，让学弟学妹不再需要重复购买那些真假难辨的资料，这是本平台所希望解决的问题。
 
-本平台收到以上项目启发[上海交通大学课程分享](https://github.com/kxxwz/SJTU-Courses)，[传承&交大](http://share.sjtu.edu.cn)和[浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)的启发。
+本平台受以上项目启发[上海交通大学课程分享](https://github.com/kxxwz/SJTU-Courses)，[传承&交大](http://share.sjtu.edu.cn)和[浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)的启发。
 
 ## 目录
 
