@@ -1,0 +1,43 @@
+# .github/workflows/ci.yml
+
+name: Build and Deploy Docs
+
+on:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      # 第1步：拉取你的仓库代码
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 第2步：设置 Python 环境
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+
+      # 第3步：根据 requirements.txt 安装所有依赖
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # 第4步：运行脚本，自动更新导航栏
+      - name: Update navigation based on folder structure
+        run: python update_nav.py
+
+      # 第5步：如果 mkdocs.yml 文件被修改，则自动提交并推送回仓库
+      # 这一步是实现完全自动化的关键！
+      - name: Commit and push if mkdocs.yml changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'docs: ✨ auto-update navigation'
+          file_pattern: mkdocs.yml
+
+      # 第6步：构建网站并部署到 GitHub Pages
+      - name: Deploy to GitHub Pages
+        run: mkdocs gh-deploy --force

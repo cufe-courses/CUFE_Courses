@@ -1,0 +1,116 @@
+# mkdocs.yml
+
+# 网站元数据
+site_name: 中央财经大学课程资料共享计划 # 网站左上角显示的标题
+site_url: https://luzhiyu-econ.github.io/ # 你的网站最终的URL
+site_author: cufe-courses # 作者名
+site_description: '关于课程的笔记、资料与评价'
+
+# 仓库信息 (会在右上角显示GitHub图标)
+repo_name: 'cufe-courses/CUFE_Courses'
+repo_url: 'https://github.com/cufe-courses/CUFE_Courses'
+edit_uri: 'edit/main/docs/' # 允许用户直接跳转到GitHub编辑对应的页面
+
+# 主题配置
+theme:
+  name: material # 使用 mkdocs-material 主题
+  language: zh # 设置语言为中文
+  custom_dir: overrides
+  palette:
+    # 配色方案 (可以任选一个)
+  - scheme: default   # 日间模式
+    toggle:
+      icon: material/brightness-7
+      name: 切换到夜间模式
+  - scheme: slate   # 夜间模式
+    toggle:
+      icon: material/brightness-4
+      name: 切换到日间模式
+  features:
+  - navigation.tabs   # 使用顶部标签页导航
+  - navigation.sections   # 左侧导航栏可以展开
+  - navigation.top   # 返回顶部按钮
+  - search.suggest   # 搜索建议
+  - search.highlight   # 搜索词高亮
+  - content.code.copy   # 代码块一键复制
+  - navigation.instant    # <--- 添加这一行
+
+
+# 插件
+plugins:
+- search   # 内置的搜索插件
+- meta    # 添加 meta 插件
+
+# Markdown 扩展
+markdown_extensions:
+- pymdownx.highlight:
+    anchor_linenums: true
+- pymdownx.inlinehilite
+- pymdownx.snippets
+- pymdownx.superfences
+- admonition   # 美观的提示框，如 !!! note "提示"
+- toc:
+    permalink: true   # 为标题添加永久链接
+nav:
+- 首页: index.md
+- 中财模版:
+  - 中财PPTlatex模版: 中财模版/中财PPTlatex模版/README.md
+  - 中财PPTlatex模版2: 中财模版/中财PPTlatex模版2/README.md
+  - 中财PPT模版: 中财模版/中财PPT模版/README.md
+  - 中财PPT模版（论文汇报）: 中财模版/中财PPT模版（论文汇报）/README.md
+  - 中财腾讯会议背景: 中财模版/中财腾讯会议背景/README.md
+  - 中财论文latex模板: 中财模版/中财论文latex模板/README.md
+  - 中财论文word模板: 中财模版/中财论文word模板/README.md
+- 课程资料:
+  - CE2020metricshandouts: 课程资料/CE2020metricshandouts/README.md
+  - Tools for Data Science: 课程资料/Tools for Data Science/README.md
+  - c语言程序设计（北航）: 课程资料/c语言程序设计（北航）/README.md
+  - python（北航）: 课程资料/python（北航）/README.md
+  - 世界经济概论(jt): 课程资料/世界经济概论(jt)/README.md
+  - 人力资源管理（jyt）: 课程资料/人力资源管理（jyt）/README.md
+  - 会计学: 课程资料/会计学/README.md
+  - 体育题库: 课程资料/体育题库/README.md
+  - 俄罗斯语言与文化: 课程资料/俄罗斯语言与文化/README.md
+  - 公共支出分析（ww）: 课程资料/公共支出分析（ww）/README.md
+  - 公共政策学（dy）: 课程资料/公共政策学（dy）/README.md
+  - 公共经济学（ff）: 课程资料/公共经济学（ff）/README.md
+  - 公共薪酬管理: 课程资料/公共薪酬管理/README.md
+  - 军理: 课程资料/军理/README.md
+  - 区域经济学（yw&dhw）: 课程资料/区域经济学（yw&dhw）/README.md
+  - 博弈论（wqz）: 课程资料/博弈论（wqz）/README.md
+  - 商业银行经营学（xc）: 课程资料/商业银行经营学（xc）/README.md
+  - 国际商法（lhm）: 课程资料/国际商法（lhm）/README.md
+  - 大学英语交流: 课程资料/大学英语交流/README.md
+  - 大学计算机基础: 课程资料/大学计算机基础/README.md
+  - 宏观经济学: 课程资料/宏观经济学/README.md
+  - 微积分（高等数学）: 课程资料/微积分（高等数学）/README.md
+  - 微观经济学: 课程资料/微观经济学/README.md
+  - 微观计量经济学（rr）: 课程资料/微观计量经济学（rr）/README.md
+  - 思想道德与法治: 课程资料/思想道德与法治/README.md
+  - 投资银行学（wy）: 课程资料/投资银行学（wy）/README.md
+  - 政府预算（wfr&dy）: 课程资料/政府预算（wfr&dy）/README.md
+  - 日本语言与文化(aw): 课程资料/日本语言与文化(aw)/README.md
+  - 最优化方法（ff）: 课程资料/最优化方法（ff）/README.md
+  - 概率论与数理统计: 课程资料/概率论与数理统计/README.md
+  - 比较税制（wfr）: 课程资料/比较税制（wfr）/README.md
+  - 毛概: 课程资料/毛概/README.md
+  - 社会学概论(wjc): 课程资料/社会学概论(wjc)/README.md
+  - 社会心理学（fxy）: 课程资料/社会心理学（fxy）/README.md
+  - 税收管理: 课程资料/税收管理/README.md
+  - 空间解析几何（zyr）: 课程资料/空间解析几何（zyr）/README.md
+  - 线性代数: 课程资料/线性代数/README.md
+  - 组织经济学（wqz）: 课程资料/组织经济学（wqz）/README.md
+  - 经济学原理: 课程资料/经济学原理/README.md
+  - 统计学: 课程资料/统计学/README.md
+  - 美国社会与文化: 课程资料/美国社会与文化/README.md
+  - 西方经济学流派（sxc）: 课程资料/西方经济学流派（sxc）/README.md
+  - 西方经济思想史（zsy）: 课程资料/西方经济思想史（zsy）/README.md
+  - 计量经济学: 课程资料/计量经济学/README.md
+  - 财务会计实务与案例: 课程资料/财务会计实务与案例/README.md
+  - 财务报告分析(chz): 课程资料/财务报告分析(chz)/README.md
+  - 财政金融学（rr）: 课程资料/财政金融学（rr）/README.md
+  - 资本论选读（zsy）: 课程资料/资本论选读（zsy）/README.md
+  - 运筹学（lxl）: 课程资料/运筹学（lxl）/README.md
+  - 近现代史纲: 课程资料/近现代史纲/README.md
+  - 金融学: 课程资料/金融学/README.md
+  - 马原: 课程资料/马原/README.md
