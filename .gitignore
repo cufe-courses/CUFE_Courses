@@ -35,6 +35,7 @@ venv.bak/
 # Logs and databases
 *.log
 *.sqlite
+维护手册.md
 
 # Local settings
 settings.json
