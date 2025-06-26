@@ -1,1 +1,20 @@
 楼主上的是xs 老师的课，会计学本身很复杂、很琐碎，不过xs老师上课很有趣，最后给分也很好，很推荐
+## 📄 文件目录与下载
+
+- 📄 [14266747_会计学第4版_p382.pdf](14266747_%E4%BC%9A%E8%AE%A1%E5%AD%A6%E7%AC%AC4%E7%89%88_p382.pdf)
+- 📄 [2021《会计学》模拟试题一(1).docx](2021%E3%80%8A%E4%BC%9A%E8%AE%A1%E5%AD%A6%E3%80%8B%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98%E4%B8%80%281%29.docx)
+- 📄 [习题答案1.jpg](%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%881.jpg)
+- 📄 [习题答案2.jpg](%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%882.jpg)
+- 📄 [习题答案3.jpg](%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%883.jpg)
+- 📄 [会计学汇报 1.pptx](%E4%BC%9A%E8%AE%A1%E5%AD%A6%E6%B1%87%E6%8A%A5%201.pptx)
+- 📄 [第1章.pdf](%E7%AC%AC1%E7%AB%A0.pdf)
+- 📄 [第2章.pdf](%E7%AC%AC2%E7%AB%A0.pdf)
+- 📄 [第3章.pdf](%E7%AC%AC3%E7%AB%A0.pdf)
+- 📄 [第4章.pdf](%E7%AC%AC4%E7%AB%A0.pdf)
+- 📄 [第5章.pdf](%E7%AC%AC5%E7%AB%A0.pdf)
+- 📄 [第6章.pdf](%E7%AC%AC6%E7%AB%A0.pdf)
+- 📄 [第7章.pdf](%E7%AC%AC7%E7%AB%A0.pdf)
+- 📄 [第8章.pdf](%E7%AC%AC8%E7%AB%A0.pdf)
+- 📄 [第9章.pdf](%E7%AC%AC9%E7%AB%A0.pdf)
+- 📄 [错题集.docx](%E9%94%99%E9%A2%98%E9%9B%86.docx)
+- 📄 [题集.docx](%E9%A2%98%E9%9B%86.docx)

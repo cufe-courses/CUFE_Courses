@@ -1,1 +1,20 @@
 课程挺好的，但是老师期末平时分全部最高给85，卡绩点93分（）
+## 📄 文件目录与下载
+
+- 📄 [《社会心理学概论》第一章.pptx](%E3%80%8A%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86%E5%AD%A6%E6%A6%82%E8%AE%BA%E3%80%8B%E7%AC%AC%E4%B8%80%E7%AB%A0.pptx)
+- 📄 [《社会心理学概论》第七章.pptx](%E3%80%8A%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86%E5%AD%A6%E6%A6%82%E8%AE%BA%E3%80%8B%E7%AC%AC%E4%B8%83%E7%AB%A0.pptx)
+- 📄 [《社会心理学概论》第三章.pptx](%E3%80%8A%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86%E5%AD%A6%E6%A6%82%E8%AE%BA%E3%80%8B%E7%AC%AC%E4%B8%89%E7%AB%A0.pptx)
+- 📄 [《社会心理学概论》第九章.pptx](%E3%80%8A%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86%E5%AD%A6%E6%A6%82%E8%AE%BA%E3%80%8B%E7%AC%AC%E4%B9%9D%E7%AB%A0.pptx)
+- 📄 [《社会心理学概论》第二章.pptx](%E3%80%8A%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86%E5%AD%A6%E6%A6%82%E8%AE%BA%E3%80%8B%E7%AC%AC%E4%BA%8C%E7%AB%A0.pptx)
+- 📄 [《社会心理学概论》第五章.pptx](%E3%80%8A%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86%E5%AD%A6%E6%A6%82%E8%AE%BA%E3%80%8B%E7%AC%AC%E4%BA%94%E7%AB%A0.pptx)
+- 📄 [《社会心理学概论》第八章.pptx](%E3%80%8A%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86%E5%AD%A6%E6%A6%82%E8%AE%BA%E3%80%8B%E7%AC%AC%E5%85%AB%E7%AB%A0.pptx)
+- 📄 [《社会心理学概论》第六章.pptx](%E3%80%8A%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86%E5%AD%A6%E6%A6%82%E8%AE%BA%E3%80%8B%E7%AC%AC%E5%85%AD%E7%AB%A0.pptx)
+- 📄 [《社会心理学概论》第十一章.pptx](%E3%80%8A%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86%E5%AD%A6%E6%A6%82%E8%AE%BA%E3%80%8B%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0.pptx)
+- 📄 [《社会心理学概论》第十章.pptx](%E3%80%8A%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86%E5%AD%A6%E6%A6%82%E8%AE%BA%E3%80%8B%E7%AC%AC%E5%8D%81%E7%AB%A0.pptx)
+- 📄 [《社会心理学概论》第四章.pptx](%E3%80%8A%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86%E5%AD%A6%E6%A6%82%E8%AE%BA%E3%80%8B%E7%AC%AC%E5%9B%9B%E7%AB%A0.pptx)
+- 📄 [《社会心理学概论》绪论.pptx](%E3%80%8A%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86%E5%AD%A6%E6%A6%82%E8%AE%BA%E3%80%8B%E7%BB%AA%E8%AE%BA.pptx)
+- 📄 [社会心理学概论.pdf](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86%E5%AD%A6%E6%A6%82%E8%AE%BA.pdf)
+- 📄 [社心知识点总结(1).docx](%E7%A4%BE%E5%BF%83%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93%281%29.docx)
+- 📄 [社心知识点总结(1).pdf](%E7%A4%BE%E5%BF%83%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93%281%29.pdf)
+- 📄 [社心知识点总结.docx](%E7%A4%BE%E5%BF%83%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93.docx)
+- 📄 [视频.docx](%E8%A7%86%E9%A2%91.docx)

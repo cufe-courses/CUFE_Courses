@@ -1,3 +1,95 @@
 本部分包含对lhq老师课程内容的整理与曼昆宏观经济学学习资料
 
 lhq老师课程设计高宏，建议慎重考虑选修
+## 📄 文件目录与下载
+
+- 📁 宏观经济学（lhq）
+  - 📄 [Godley-ComprehensiveAccountingSimple-2005.pdf](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/Godley-ComprehensiveAccountingSimple-2005.pdf)
+  - 📁 PPT
+    - 📁 2023中心SFC帕教授课程
+      - 📄 [SFC-code代码(1).zip](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/PPT/2023%E4%B8%AD%E5%BF%83SFC%E5%B8%95%E6%95%99%E6%8E%88%E8%AF%BE%E7%A8%8B/SFC-code%E4%BB%A3%E7%A0%81%281%29.zip)
+      - 📄 [SFC4-6（三合一）新闻稿.docx](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/PPT/2023%E4%B8%AD%E5%BF%83SFC%E5%B8%95%E6%95%99%E6%8E%88%E8%AF%BE%E7%A8%8B/SFC4-6%EF%BC%88%E4%B8%89%E5%90%88%E4%B8%80%EF%BC%89%E6%96%B0%E9%97%BB%E7%A8%BF.docx)
+      - 📄 [SFC第一讲讲义.docx](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/PPT/2023%E4%B8%AD%E5%BF%83SFC%E5%B8%95%E6%95%99%E6%8E%88%E8%AF%BE%E7%A8%8B/SFC%E7%AC%AC%E4%B8%80%E8%AE%B2%E8%AE%B2%E4%B9%89.docx)
+      - 📁 SFC课程讲义
+        - 📄 [SFC-Lecture-1(1).pdf](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/PPT/2023%E4%B8%AD%E5%BF%83SFC%E5%B8%95%E6%95%99%E6%8E%88%E8%AF%BE%E7%A8%8B/SFC%E8%AF%BE%E7%A8%8B%E8%AE%B2%E4%B9%89/SFC-Lecture-1%281%29.pdf)
+        - 📄 [SFC-Lecture-2(1).pdf](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/PPT/2023%E4%B8%AD%E5%BF%83SFC%E5%B8%95%E6%95%99%E6%8E%88%E8%AF%BE%E7%A8%8B/SFC%E8%AF%BE%E7%A8%8B%E8%AE%B2%E4%B9%89/SFC-Lecture-2%281%29.pdf)
+        - 📄 [SFC-Lecture-3.pdf](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/PPT/2023%E4%B8%AD%E5%BF%83SFC%E5%B8%95%E6%95%99%E6%8E%88%E8%AF%BE%E7%A8%8B/SFC%E8%AF%BE%E7%A8%8B%E8%AE%B2%E4%B9%89/SFC-Lecture-3.pdf)
+        - 📄 [SFC-Lecture-4.pdf](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/PPT/2023%E4%B8%AD%E5%BF%83SFC%E5%B8%95%E6%95%99%E6%8E%88%E8%AF%BE%E7%A8%8B/SFC%E8%AF%BE%E7%A8%8B%E8%AE%B2%E4%B9%89/SFC-Lecture-4.pdf)
+        - 📄 [SFC-Lecture-5.pdf](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/PPT/2023%E4%B8%AD%E5%BF%83SFC%E5%B8%95%E6%95%99%E6%8E%88%E8%AF%BE%E7%A8%8B/SFC%E8%AF%BE%E7%A8%8B%E8%AE%B2%E4%B9%89/SFC-Lecture-5.pdf)
+        - 📄 [SFC-Lecture-6.pdf](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/PPT/2023%E4%B8%AD%E5%BF%83SFC%E5%B8%95%E6%95%99%E6%8E%88%E8%AF%BE%E7%A8%8B/SFC%E8%AF%BE%E7%A8%8B%E8%AE%B2%E4%B9%89/SFC-Lecture-6.pdf)
+    - 📄 [2024 本课宏观 第一节 通胀专题.pptx](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/PPT/2024%20%E6%9C%AC%E8%AF%BE%E5%AE%8F%E8%A7%82%20%E7%AC%AC%E4%B8%80%E8%8A%82%20%E9%80%9A%E8%83%80%E4%B8%93%E9%A2%98.pptx)
+    - 📄 [2024 第九章 宏观经济的基本指标及其衡量.pptx](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/PPT/2024%20%E7%AC%AC%E4%B9%9D%E7%AB%A0%20%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%8C%87%E6%A0%87%E5%8F%8A%E5%85%B6%E8%A1%A1%E9%87%8F.pptx)
+    - 📄 [2024 第十章 短期国民收入的决定.pptx](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/PPT/2024%20%E7%AC%AC%E5%8D%81%E7%AB%A0%20%E7%9F%AD%E6%9C%9F%E5%9B%BD%E6%B0%91%E6%94%B6%E5%85%A5%E7%9A%84%E5%86%B3%E5%AE%9A.pptx)
+    - 📄 [SFC Model_open_MF_compensation_chapter 6 516.pptx](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/PPT/SFC%20Model_open_MF_compensation_chapter%206%20516.pptx)
+    - 📄 [SFC Model_open_MF_compensation_chapter 6.pdf](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/PPT/SFC%20Model_open_MF_compensation_chapter%206.pdf)
+    - 📄 [SFC Model_open_MF_compensation_chapter 6.pptx](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/PPT/SFC%20Model_open_MF_compensation_chapter%206.pptx)
+  - 📁 eviews
+    - 📄 [01.evsettings](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/01.evsettings)
+    - 📄 [01.prg](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/01.prg)
+    - 📁 01.prg_Snapshots
+      - 📄 [snapshot_20240523_173320_auto.json](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/01.prg_Snapshots/snapshot_20240523_173320_auto.json)
+      - 📄 [snapshot_20240523_173320_auto.prg](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/01.prg_Snapshots/snapshot_20240523_173320_auto.prg)
+      - 📄 [snapshot_20240612_205858_auto.json](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/01.prg_Snapshots/snapshot_20240612_205858_auto.json)
+      - 📄 [snapshot_20240612_205858_auto.prg](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/01.prg_Snapshots/snapshot_20240612_205858_auto.prg)
+      - 📄 [snapshot_20240612_213048_auto.json](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/01.prg_Snapshots/snapshot_20240612_213048_auto.json)
+      - 📄 [snapshot_20240612_213048_auto.prg](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/01.prg_Snapshots/snapshot_20240612_213048_auto.prg)
+    - 📄 [1.evsettings](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/1.evsettings)
+    - 📄 [1.prg](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/1.prg)
+    - 📄 [11.evsettings](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/11.evsettings)
+    - 📄 [11.prg](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/11.prg)
+    - 📄 [fiexed2.evsettings](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/fiexed2.evsettings)
+    - 📄 [fiexed2.prg](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/fiexed2.prg)
+    - 📁 fiexed2.prg_Snapshots
+      - 📄 [snapshot_lastsave.json](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/fiexed2.prg_Snapshots/snapshot_lastsave.json)
+      - 📄 [snapshot_lastsave.prg](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/fiexed2.prg_Snapshots/snapshot_lastsave.prg)
+    - 📄 [fiexed2.~rg](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/fiexed2.~rg)
+    - 📄 [fiexed_realdata.evsettings](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/fiexed_realdata.evsettings)
+    - 📄 [fiexed_realdata.prg](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/fiexed_realdata.prg)
+    - 📁 fiexed_realdata.prg_Snapshots
+      - 📄 [snapshot_lastsave.json](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/fiexed_realdata.prg_Snapshots/snapshot_lastsave.json)
+      - 📄 [snapshot_lastsave.prg](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/fiexed_realdata.prg_Snapshots/snapshot_lastsave.prg)
+    - 📄 [fiexed_realdata.~rg](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/fiexed_realdata.~rg)
+    - 📄 [fixed.evsettings](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/fixed.evsettings)
+    - 📄 [fixed.prg](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/fixed.prg)
+    - 📁 fixed.prg_Snapshots
+      - 📄 [snapshot_20240531_090725_auto.prg](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/fixed.prg_Snapshots/snapshot_20240531_090725_auto.prg)
+    - 📄 [open uc flexible monetary.evsettings](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/open%20uc%20flexible%20monetary.evsettings)
+    - 📄 [open uc flexible monetary.prg](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/open%20uc%20flexible%20monetary.prg)
+    - 📁 open uc flexible monetary.prg_Snapshots
+      - 📄 [snapshot_20240531_085736_auto.prg](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/open%20uc%20flexible%20monetary.prg_Snapshots/snapshot_20240531_085736_auto.prg)
+    - 📄 [open uc flexiblefinance.evsettings](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/open%20uc%20flexiblefinance.evsettings)
+    - 📄 [open uc flexiblefinance.prg](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/open%20uc%20flexiblefinance.prg)
+    - 📁 open uc flexiblefinance.prg_Snapshots
+      - 📄 [snapshot_20240531_085735_auto.prg](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/open%20uc%20flexiblefinance.prg_Snapshots/snapshot_20240531_085735_auto.prg)
+    - 📄 [openm.evsettings](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/openm.evsettings)
+    - 📄 [openm.wf1](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/openm.wf1)
+    - 📁 openm.wf1_Snapshots
+      - 📄 [snapshot_lastsave.json](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/openm.wf1_Snapshots/snapshot_lastsave.json)
+      - 📄 [snapshot_lastsave.wf1](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/eviews/openm.wf1_Snapshots/snapshot_lastsave.wf1)
+  - 📁 作业
+    - 📁 Passarella 2024 Energy Crisis, Economic Growth and Public in Italy
+      - 📄 [Italy_SFC_model(2).r](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/%E4%BD%9C%E4%B8%9A/Passarella%202024%20Energy%20Crisis%2C%20Economic%20Growth%20and%20Public%20in%20Italy/Italy_SFC_model%282%29.r)
+      - 📄 [Passarella 2024 Energy Crisis, Economic Growth and Public in Italy.pdf](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/%E4%BD%9C%E4%B8%9A/Passarella%202024%20Energy%20Crisis%2C%20Economic%20Growth%20and%20Public%20in%20Italy/Passarella%202024%20Energy%20Crisis%2C%20Economic%20Growth%20and%20Public%20in%20Italy.pdf)
+      - 📄 [cje_data(2).csv](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/%E4%BD%9C%E4%B8%9A/Passarella%202024%20Energy%20Crisis%2C%20Economic%20Growth%20and%20Public%20in%20Italy/cje_data%282%29.csv)
+      - 📄 [lzy.xlsx](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/%E4%BD%9C%E4%B8%9A/Passarella%202024%20Energy%20Crisis%2C%20Economic%20Growth%20and%20Public%20in%20Italy/lzy.xlsx)
+      - 📄 [变量和方程分类.xlsx](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/%E4%BD%9C%E4%B8%9A/Passarella%202024%20Energy%20Crisis%2C%20Economic%20Growth%20and%20Public%20in%20Italy/%E5%8F%98%E9%87%8F%E5%92%8C%E6%96%B9%E7%A8%8B%E5%88%86%E7%B1%BB.xlsx)
+      - 📄 [宏观经济学小组作业lzy.xlsx](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/%E4%BD%9C%E4%B8%9A/Passarella%202024%20Energy%20Crisis%2C%20Economic%20Growth%20and%20Public%20in%20Italy/%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%B0%8F%E7%BB%84%E4%BD%9C%E4%B8%9Alzy.xlsx)
+    - 📄 [Paul_Kenny.pdf](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/%E4%BD%9C%E4%B8%9A/Paul_Kenny.pdf)
+  - 📁 宏观期末题库
+    - 📄 [第一次小测.docx](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/%E5%AE%8F%E8%A7%82%E6%9C%9F%E6%9C%AB%E9%A2%98%E5%BA%93/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%B0%8F%E6%B5%8B.docx)
+    - 📁 第三次小测
+      - 📁 结果图
+        - 📄 [chart11.png](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/%E5%AE%8F%E8%A7%82%E6%9C%9F%E6%9C%AB%E9%A2%98%E5%BA%93/%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%B0%8F%E6%B5%8B/%E7%BB%93%E6%9E%9C%E5%9B%BE/chart11.png)
+        - 📄 [chart12.png](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/%E5%AE%8F%E8%A7%82%E6%9C%9F%E6%9C%AB%E9%A2%98%E5%BA%93/%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%B0%8F%E6%B5%8B/%E7%BB%93%E6%9E%9C%E5%9B%BE/chart12.png)
+        - 📄 [chart21.png](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/%E5%AE%8F%E8%A7%82%E6%9C%9F%E6%9C%AB%E9%A2%98%E5%BA%93/%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%B0%8F%E6%B5%8B/%E7%BB%93%E6%9E%9C%E5%9B%BE/chart21.png)
+        - 📄 [chart22.png](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/%E5%AE%8F%E8%A7%82%E6%9C%9F%E6%9C%AB%E9%A2%98%E5%BA%93/%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%B0%8F%E6%B5%8B/%E7%BB%93%E6%9E%9C%E5%9B%BE/chart22.png)
+        - 📄 [chart31.png](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/%E5%AE%8F%E8%A7%82%E6%9C%9F%E6%9C%AB%E9%A2%98%E5%BA%93/%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%B0%8F%E6%B5%8B/%E7%BB%93%E6%9E%9C%E5%9B%BE/chart31.png)
+        - 📄 [chart32.png](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/%E5%AE%8F%E8%A7%82%E6%9C%9F%E6%9C%AB%E9%A2%98%E5%BA%93/%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%B0%8F%E6%B5%8B/%E7%BB%93%E6%9E%9C%E5%9B%BE/chart32.png)
+    - 📄 [第二次小测.docx](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/%E5%AE%8F%E8%A7%82%E6%9C%9F%E6%9C%AB%E9%A2%98%E5%BA%93/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%B0%8F%E6%B5%8B.docx)
+    - 📁 试卷
+      - 📄 [11.png](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/%E5%AE%8F%E8%A7%82%E6%9C%9F%E6%9C%AB%E9%A2%98%E5%BA%93/%E8%AF%95%E5%8D%B7/11.png)
+      - 📄 [12.png](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/%E5%AE%8F%E8%A7%82%E6%9C%9F%E6%9C%AB%E9%A2%98%E5%BA%93/%E8%AF%95%E5%8D%B7/12.png)
+      - 📄 [2024随堂测试试卷3.docx](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/%E5%AE%8F%E8%A7%82%E6%9C%9F%E6%9C%AB%E9%A2%98%E5%BA%93/%E8%AF%95%E5%8D%B7/2024%E9%9A%8F%E5%A0%82%E6%B5%8B%E8%AF%95%E8%AF%95%E5%8D%B73.docx)
+      - 📄 [21.png](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/%E5%AE%8F%E8%A7%82%E6%9C%9F%E6%9C%AB%E9%A2%98%E5%BA%93/%E8%AF%95%E5%8D%B7/21.png)
+      - 📄 [22.png](%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88lhq%EF%BC%89/%E5%AE%8F%E8%A7%82%E6%9C%9F%E6%9C%AB%E9%A2%98%E5%BA%93/%E8%AF%95%E5%8D%B7/22.png)
+- 📄 [曼昆宏观_前七章_3-11.pdf](%E6%9B%BC%E6%98%86%E5%AE%8F%E8%A7%82_%E5%89%8D%E4%B8%83%E7%AB%A0_3-11.pdf)

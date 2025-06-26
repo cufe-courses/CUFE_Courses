@@ -1,1 +1,13 @@
 ww老师神，论文结课，平时会有不少作业，但是分数很理想
+## 📄 文件目录与下载
+
+- 📄 [支出数据换算.xlsx](%E6%94%AF%E5%87%BA%E6%95%B0%E6%8D%AE%E6%8D%A2%E7%AE%97.xlsx)
+- 📁 第一次作业
+  - 📄 [ppt整理.docx](%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A/ppt%E6%95%B4%E7%90%86.docx)
+  - 📄 [上海市财政支出规模结构分析.docx](%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A/%E4%B8%8A%E6%B5%B7%E5%B8%82%E8%B4%A2%E6%94%BF%E6%94%AF%E5%87%BA%E8%A7%84%E6%A8%A1%E7%BB%93%E6%9E%84%E5%88%86%E6%9E%90.docx)
+  - 📄 [上海市财政支出规模结构分析.pdf](%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A/%E4%B8%8A%E6%B5%B7%E5%B8%82%E8%B4%A2%E6%94%BF%E6%94%AF%E5%87%BA%E8%A7%84%E6%A8%A1%E7%BB%93%E6%9E%84%E5%88%86%E6%9E%90.pdf)
+  - 📄 [支出数据换算.xlsx](%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A/%E6%94%AF%E5%87%BA%E6%95%B0%E6%8D%AE%E6%8D%A2%E7%AE%97.xlsx)
+  - 📄 [财政支出数据（中国北京上海）.dta](%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A/%E8%B4%A2%E6%94%BF%E6%94%AF%E5%87%BA%E6%95%B0%E6%8D%AE%EF%BC%88%E4%B8%AD%E5%9B%BD%E5%8C%97%E4%BA%AC%E4%B8%8A%E6%B5%B7%EF%BC%89.dta)
+  - 📄 [财政收支绘图分析.do](%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A/%E8%B4%A2%E6%94%BF%E6%94%B6%E6%94%AF%E7%BB%98%E5%9B%BE%E5%88%86%E6%9E%90.do)
+  - 📄 [面板数据.dta](%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A/%E9%9D%A2%E6%9D%BF%E6%95%B0%E6%8D%AE.dta)
+- 📄 [课程论文要求.docx](%E8%AF%BE%E7%A8%8B%E8%AE%BA%E6%96%87%E8%A6%81%E6%B1%82.docx)
