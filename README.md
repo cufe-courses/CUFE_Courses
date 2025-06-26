@@ -9,6 +9,8 @@
 [![](https://img.shields.io/github/forks/cufe-courses/CUFE_Courses.svg)](https://github.com/cufe-courses/CUFE_Courses/network/members)
 ![](https://img.shields.io/github/repo-size/cufe-courses/CUFE_Courses.svg)
 
+**🎉🎉  [网站](https://cufe-courses.github.io/CUFE_Courses) 已经上线🎉🎉**
+
 ## 前言
 
 前段时间，关于期末考试重复使用往年原题的树洞登上热榜。在考核中使用往年原题早已屡见不鲜，笔者并不愿意对此进行道德评判。但如果这份题目（或者考纲）可以在更公开的场合广泛传播，是不是大家可以更早获得好的复习指引？老师是否也会受到反向监督，不再使用往年超纲旧题？“要是能有一个公开的平台使得信息公开流动那就好了”，这个项目正是在这样的心态下被建立起来。
