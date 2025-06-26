@@ -1,4 +1,3 @@
-# generate_directory.py (版本 8.0 - 最终版)
 import os
 import urllib.parse
 from pathlib import Path
