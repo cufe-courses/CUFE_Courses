@@ -32,13 +32,19 @@ theme:
   - navigation.top   # 返回顶部按钮
   - search.suggest   # 搜索建议
   - search.highlight   # 搜索词高亮
+  - search.share   # 搜索结果分享
   - content.code.copy   # 代码块一键复制
   - navigation.instant    # <--- 添加这一行
 
 
 # 插件
 plugins:
-- search   # 内置的搜索插件
+- search:
+    lang: 
+      - zh
+      - en
+    separator: '[\s\-\.\u3000]+'  # 支持中文分词，包含中文空格
+    prebuild_index: true  # 预构建索引以提高搜索性能
 - meta    # 添加 meta 插件
 
 # Markdown 扩展
