@@ -39,7 +39,6 @@ LF老师的通识课，计算机入门神课，推荐每一个学弟学妹去认
     - 📄 [nashville_precip.txt](P02-Python-Data-Structures/data/nashville_precip.txt)
     - 📄 [titanic.xls](P02-Python-Data-Structures/data/titanic.xls)
     - 📄 [vlbw.csv](P02-Python-Data-Structures/data/vlbw.csv)
-- 📁 P02-Python-Data-Structures 2
 - 📁 P03-Data-Visualization-with-Python
   - 📄 [L03.1-Pandas-Data-Visualization.ipynb](P03-Data-Visualization-with-Python/L03.1-Pandas-Data-Visualization.ipynb)
   - 📄 [L03.1-Pandas-Data-Visualization.slides.html](P03-Data-Visualization-with-Python/L03.1-Pandas-Data-Visualization.slides.html)
@@ -69,7 +68,6 @@ LF老师的通识课，计算机入门神课，推荐每一个学弟学妹去认
     - 📄 [taxis.csv](P03-Data-Visualization-with-Python/data/taxis.csv)
     - 📄 [tips.csv](P03-Data-Visualization-with-Python/data/tips.csv)
     - 📄 [titanic.csv](P03-Data-Visualization-with-Python/data/titanic.csv)
-- 📁 P03-Data-Visualization-with-Python 2
 - 📁 P04-Python-for-Finance-Tasks
   - 📄 [L04.1-Reading-and-Cleaning-Excel-Files.ipynb](P04-Python-for-Finance-Tasks/L04.1-Reading-and-Cleaning-Excel-Files.ipynb)
   - 📄 [L04.1-Reading-and-Cleaning-Excel-Files.slides.html](P04-Python-for-Finance-Tasks/L04.1-Reading-and-Cleaning-Excel-Files.slides.html)
@@ -85,7 +83,6 @@ LF老师的通识课，计算机入门神课，推荐每一个学弟学妹去认
     - 📄 [products.csv](P04-Python-for-Finance-Tasks/data/products.csv)
     - 📄 [reviews.csv](P04-Python-for-Finance-Tasks/data/reviews.csv)
     - 📄 [stopwords.csv](P04-Python-for-Finance-Tasks/data/stopwords.csv)
-- 📁 P04-Python-for-Finance-Tasks 2
 - 📁 P05-Modeling-with-Python
   - 📄 [L05.1-Fundamental-Modules-for-Statistical-Modeling.ipynb](P05-Modeling-with-Python/L05.1-Fundamental-Modules-for-Statistical-Modeling.ipynb)
   - 📄 [L05.1-Fundamental-Modules-for-Statistical-Modeling.slides.html](P05-Modeling-with-Python/L05.1-Fundamental-Modules-for-Statistical-Modeling.slides.html)
@@ -100,7 +97,6 @@ LF老师的通识课，计算机入门神课，推荐每一个学弟学妹去认
     - 📄 [baseball.csv](P05-Modeling-with-Python/data/baseball.csv)
     - 📄 [nashville_precip.txt](P05-Modeling-with-Python/data/nashville_precip.txt)
     - 📄 [titanic.xls](P05-Modeling-with-Python/data/titanic.xls)
-- 📁 P05-Modeling-with-Python 2
 - 📁 P06-Python-and-Text-Processing
   - 📄 [L06.1-Python-and-Texts.ipynb](P06-Python-and-Text-Processing/L06.1-Python-and-Texts.ipynb)
   - 📄 [L06.1-Python-and-Texts.slides.html](P06-Python-and-Text-Processing/L06.1-Python-and-Texts.slides.html)
@@ -116,7 +112,6 @@ LF老师的通识课，计算机入门神课，推荐每一个学弟学妹去认
     - 📄 [text8.zip](P06-Python-and-Text-Processing/data/text8.zip)
     - 📄 [tfidf_scikit.csv](P06-Python-and-Text-Processing/data/tfidf_scikit.csv)
     - 📄 [userdict.txt](P06-Python-and-Text-Processing/data/userdict.txt)
-- 📁 P06-Python-and-Text-Processing 2
 - 📁 P07-Web-Scraping-with-Python
   - 📄 [L07.1-Web-Scraping-with-Python.ipynb](P07-Web-Scraping-with-Python/L07.1-Web-Scraping-with-Python.ipynb)
   - 📄 [L07.1-Web-Scraping-with-Python.slides.html](P07-Web-Scraping-with-Python/L07.1-Web-Scraping-with-Python.slides.html)
@@ -163,7 +158,6 @@ LF老师的通识课，计算机入门神课，推荐每一个学弟学妹去认
           - 📄 [__init__.py](P07-Web-Scraping-with-Python/examples/wikiSpider/wikiSpider/spiders/__init__.py)
           - 📄 [articleSpider.py](P07-Web-Scraping-with-Python/examples/wikiSpider/wikiSpider/spiders/articleSpider.py)
           - 📄 [title.py](P07-Web-Scraping-with-Python/examples/wikiSpider/wikiSpider/spiders/title.py)
-- 📁 P07-Web-Scraping-with-Python 2
 - 📁 P08-Advanced-Topics
   - 📄 [L08.1-Probabilistic-Language-Modeling.ipynb](P08-Advanced-Topics/L08.1-Probabilistic-Language-Modeling.ipynb)
   - 📄 [L08.1-Probabilistic-Language-Modeling.slides.html](P08-Advanced-Topics/L08.1-Probabilistic-Language-Modeling.slides.html)
@@ -185,14 +179,12 @@ LF老师的通识课，计算机入门神课，推荐每一个学弟学妹去认
   - 📁 figures
     - 📄 [BoE_fanchart.png](TS01-Time-Series-Forecasting-Intro/figures/BoE_fanchart.png)
     - 📄 [weatherf.png](TS01-Time-Series-Forecasting-Intro/figures/weatherf.png)
-- 📁 TS01-Time-Series-Forecasting-Intro 2
 - 📁 TS02-Time-Series-Decompositions
   - 📄 [L02-Time-Series-Decompositions.ipynb](TS02-Time-Series-Decompositions/L02-Time-Series-Decompositions.ipynb)
   - 📄 [L02-Time-Series-Decompositions.slides.html](TS02-Time-Series-Decompositions/L02-Time-Series-Decompositions.slides.html)
   - 📁 data
     - 📄 [AirPassengers.csv](TS02-Time-Series-Decompositions/data/AirPassengers.csv)
     - 📄 [employment.csv](TS02-Time-Series-Decompositions/data/employment.csv)
-- 📁 TS02-Time-Series-Decompositions 2
 - 📁 TS03-ARIMA
   - 📁 .ipynb_checkpoints
     - 📄 [L03.1-ARIMA-checkpoint.ipynb](TS03-ARIMA/.ipynb_checkpoints/L03.1-ARIMA-checkpoint.ipynb)
@@ -206,7 +198,6 @@ LF老师的通识课，计算机入门神课，推荐每一个学弟学妹去认
   - 📁 data
     - 📄 [bike_sharing_daily.csv](TS03-ARIMA/data/bike_sharing_daily.csv)
     - 📄 [takeaway.csv](TS03-ARIMA/data/takeaway.csv)
-- 📁 TS03-ARIMA 2
 - 📁 TS04-Forecasting-Combinations-and-Forecasting-Uncertainty
   - 📄 [L04-Forecasting-Combinations-and-Forecasting-Uncertainty.ipynb](TS04-Forecasting-Combinations-and-Forecasting-Uncertainty/L04-Forecasting-Combinations-and-Forecasting-Uncertainty.ipynb)
   - 📁 data
@@ -224,7 +215,6 @@ LF老师的通识课，计算机入门神课，推荐每一个学弟学妹去认
     - 📄 [outliersubsequence.png](TS05-Time-Series-Anomaly-Detection/figures/outliersubsequence.png)
     - 📄 [tsoutliers.jpeg](TS05-Time-Series-Anomaly-Detection/figures/tsoutliers.jpeg)
     - 📄 [tsoutliers.webp](TS05-Time-Series-Anomaly-Detection/figures/tsoutliers.webp)
-- 📁 TS05-Time-Series-Anomaly-Detection 2
 - 📁 TS06-Large-scale-time-series-forecasting-with-applications
   - 📄 [TS06-Large-scale-time-series-forecasting-with-applications.pdf](TS06-Large-scale-time-series-forecasting-with-applications/TS06-Large-scale-time-series-forecasting-with-applications.pdf)
 - 📄 [setup_rise.py](setup_rise.py)

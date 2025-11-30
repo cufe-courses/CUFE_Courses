@@ -1,62 +1,49 @@
-# mkdocs.yml
-
-# 网站元数据
-site_name: 中央财经大学课程资料共享计划 # 网站左上角显示的标题
-site_url: https://cufe-courses.github.io/CUFE_Courses # 你的网站最终的URL
-site_author: cufe-courses # 作者名
-site_description: '关于课程的笔记、资料与评价'
-
-# 仓库信息 (会在右上角显示GitHub图标)
-repo_name: 'cufe-courses/CUFE_Courses'
-repo_url: 'https://github.com/cufe-courses/CUFE_Courses'
-edit_uri: 'edit/main/docs/' # 允许用户直接跳转到GitHub编辑对应的页面
-
-# 主题配置
+site_name: 中央财经大学课程资料共享计划
+site_url: https://cufe-courses.github.io/CUFE_Courses
+site_author: cufe-courses
+site_description: 关于课程的笔记、资料与评价
+repo_name: cufe-courses/CUFE_Courses
+repo_url: https://github.com/cufe-courses/CUFE_Courses
+edit_uri: edit/main/docs/
 theme:
-  name: material # 使用 mkdocs-material 主题
-  language: zh # 设置语言为中文
+  name: material
+  language: zh
   custom_dir: overrides
   palette:
-    # 配色方案 (可以任选一个)
-  - scheme: default   # 日间模式
+  - scheme: default
     toggle:
       icon: material/brightness-7
       name: 切换到夜间模式
-  - scheme: slate   # 夜间模式
+  - scheme: slate
     toggle:
       icon: material/brightness-4
       name: 切换到日间模式
   features:
-  - navigation.tabs   # 使用顶部标签页导航
-  - navigation.sections   # 左侧导航栏可以展开
-  - navigation.top   # 返回顶部按钮
-  - search.suggest   # 搜索建议
-  - search.highlight   # 搜索词高亮
-  - search.share   # 搜索结果分享
-  - content.code.copy   # 代码块一键复制
-  - navigation.instant    # <--- 添加这一行
-
-
-# 插件
+  - navigation.tabs
+  - navigation.sections
+  - navigation.top
+  - search.suggest
+  - search.highlight
+  - search.share
+  - content.code.copy
+  - navigation.instant
 plugins:
 - search:
-    lang: 
-      - zh
-      - en
-    separator: '[\s\-\.\u3000]+'  # 支持中文分词，包含中文空格
-    prebuild_index: true  # 预构建索引以提高搜索性能
-- meta    # 添加 meta 插件
-
-# Markdown 扩展
+    lang:
+    - zh
+    - en
+    separator: '[\s\-\.\u3000]+'
+    prebuild_index: true
+- meta
 markdown_extensions:
 - pymdownx.highlight:
     anchor_linenums: true
 - pymdownx.inlinehilite
 - pymdownx.snippets
 - pymdownx.superfences
-- admonition   # 美观的提示框，如 !!! note "提示"
+- admonition
 - toc:
-    permalink: true   # 为标题添加永久链接
+    permalink: true
 nav:
 - 首页: index.md
 - 中财模版:
@@ -68,8 +55,60 @@ nav:
   - 中财论文latex模板: 中财模版/中财论文latex模板/README.md
   - 中财论文word模板: 中财模版/中财论文word模板/README.md
 - 课程资料:
-  - Arcgis空间分析实验: 课程资料/Arcgis空间分析实验/README.md
   - CE2020metricshandouts: 课程资料/CE2020metricshandouts/README.md
+  - Tools for Data Science: 课程资料/Tools for Data Science/README.md
+  - c语言程序设计（北航）: 课程资料/c语言程序设计（北航）/README.md
+  - python（北航）: 课程资料/python（北航）/README.md
+  - 世界经济概论(jt): 课程资料/世界经济概论(jt)/README.md
+  - 人力资源管理（jyt）: 课程资料/人力资源管理（jyt）/README.md
+  - 会计学: 课程资料/会计学/README.md
+  - 体育题库: 课程资料/体育题库/README.md
+  - 俄罗斯语言与文化: 课程资料/俄罗斯语言与文化/README.md
+  - 公共支出分析（ww）: 课程资料/公共支出分析（ww）/README.md
+  - 公共政策学（dy）: 课程资料/公共政策学（dy）/README.md
+  - 公共经济学（ff）: 课程资料/公共经济学（ff）/README.md
+  - 公共薪酬管理: 课程资料/公共薪酬管理/README.md
+  - 军理: 课程资料/军理/README.md
+  - 区域经济学（yw&dhw）: 课程资料/区域经济学（yw&dhw）/README.md
+  - 博弈论（wqz）: 课程资料/博弈论（wqz）/README.md
+  - 商业银行经营学（xc）: 课程资料/商业银行经营学（xc）/README.md
+  - 国际商法（lhm）: 课程资料/国际商法（lhm）/README.md
+  - 大学英语交流: 课程资料/大学英语交流/README.md
+  - 大学计算机基础: 课程资料/大学计算机基础/README.md
+  - 宏观经济学: 课程资料/宏观经济学/README.md
+  - 微积分（高等数学）: 课程资料/微积分（高等数学）/README.md
+  - 微观经济学: 课程资料/微观经济学/README.md
+  - 微观计量经济学（rr）: 课程资料/微观计量经济学（rr）/README.md
+  - 思想道德与法治: 课程资料/思想道德与法治/README.md
+  - 投资银行学（wy）: 课程资料/投资银行学（wy）/README.md
+  - 政府预算（wfr&dy）: 课程资料/政府预算（wfr&dy）/README.md
+  - 日本语言与文化(aw): 课程资料/日本语言与文化(aw)/README.md
+  - 最优化方法（ff）: 课程资料/最优化方法（ff）/README.md
+  - 概率论与数理统计: 课程资料/概率论与数理统计/README.md
+  - 比较税制（wfr）: 课程资料/比较税制（wfr）/README.md
+  - 毛概: 课程资料/毛概/README.md
+  - 社会学概论(wjc): 课程资料/社会学概论(wjc)/README.md
+  - 社会心理学（fxy）: 课程资料/社会心理学（fxy）/README.md
+  - 税收管理: 课程资料/税收管理/README.md
+  - 空间解析几何（zyr）: 课程资料/空间解析几何（zyr）/README.md
+  - 线性代数: 课程资料/线性代数/README.md
+  - 组织经济学（wqz）: 课程资料/组织经济学（wqz）/README.md
+  - 经济学原理: 课程资料/经济学原理/README.md
+  - 统计学: 课程资料/统计学/README.md
+  - 美国社会与文化: 课程资料/美国社会与文化/README.md
+  - 西方经济学流派（sxc）: 课程资料/西方经济学流派（sxc）/README.md
+  - 西方经济思想史（zsy）: 课程资料/西方经济思想史（zsy）/README.md
+  - 计量经济学: 课程资料/计量经济学/README.md
+  - 财务会计实务与案例: 课程资料/财务会计实务与案例/README.md
+  - 财务报告分析(chz): 课程资料/财务报告分析(chz)/README.md
+  - 财政金融学（rr）: 课程资料/财政金融学（rr）/README.md
+  - 资本论选读（zsy）: 课程资料/资本论选读（zsy）/README.md
+  - 运筹学（lxl）: 课程资料/运筹学（lxl）/README.md
+  - 近现代史纲: 课程资料/近现代史纲/README.md
+  - 金融学: 课程资料/金融学/README.md
+  - 马原: 课程资料/马原/README.md
+- 课程评价:
+  - Arcgis空间分析实验: 课程资料/Arcgis空间分析实验/README.md
   - ERP实验课: 课程资料/ERP实验课/README.md
   - EXCEL高级应用: 课程资料/EXCEL高级应用/README.md
   - EXCEL高级运用: 课程资料/EXCEL高级运用/README.md
@@ -79,16 +118,13 @@ nav:
   - Python: 课程资料/Python/README.md
   - Python大数据分析基础: 课程资料/Python大数据分析基础/README.md
   - Python程序设计: 课程资料/Python程序设计/README.md
-  - Tools for Data Science: 课程资料/Tools for Data Science/README.md
   - WTO改革与实践专题: 课程资料/WTO改革与实践专题/README.md
   - Web前端设计: 课程资料/Web前端设计/README.md
   - Web前端设计与开发: 课程资料/Web前端设计与开发/README.md
   - c++程序设计: 课程资料/c++程序设计/README.md
   - c程序设计: 课程资料/c程序设计/README.md
-  - c语言程序设计（北航）: 课程资料/c语言程序设计（北航）/README.md
   - excel在经济管理中的应用: 课程资料/excel在经济管理中的应用/README.md
   - excel的高级应用: 课程资料/excel的高级应用/README.md
-  - python（北航）: 课程资料/python（北航）/README.md
   - 《红楼梦》中的权利与生活: 课程资料/《红楼梦》中的权利与生活/README.md
   - 《论语》导读: 课程资料/《论语》导读/README.md
   - 《论语》研读: 课程资料/《论语》研读/README.md
@@ -103,7 +139,6 @@ nav:
   - 世界宗教问题透析: 课程资料/世界宗教问题透析/README.md
   - 世界经济史: 课程资料/世界经济史/README.md
   - 世界经济概论: 课程资料/世界经济概论/README.md
-  - 世界经济概论(jt): 课程资料/世界经济概论(jt)/README.md
   - 东亚地区当代国际贸易及投资政策。: 课程资料/东亚地区当代国际贸易及投资政策。/README.md
   - 个人理财规划: 课程资料/个人理财规划/README.md
   - 中国人口问题研究: 课程资料/中国人口问题研究/README.md
@@ -136,7 +171,6 @@ nav:
   - 产业组织理论及应用: 课程资料/产业组织理论及应用/README.md
   - 产业经济学: 课程资料/产业经济学/README.md
   - 人力资源管理: 课程资料/人力资源管理/README.md
-  - 人力资源管理（jyt）: 课程资料/人力资源管理（jyt）/README.md
   - 人力资源量化分析: 课程资料/人力资源量化分析/README.md
   - 人口学概论: 课程资料/人口学概论/README.md
   - 人员素质测评: 课程资料/人员素质测评/README.md
@@ -155,7 +189,6 @@ nav:
   - 企业战略管理: 课程资料/企业战略管理/README.md
   - 休闲项目策划: 课程资料/休闲项目策划/README.md
   - 会计信息系统: 课程资料/会计信息系统/README.md
-  - 会计学: 课程资料/会计学/README.md
   - 会计英语: 课程资料/会计英语/README.md
   - 会计英语阅读: 课程资料/会计英语阅读/README.md
   - 传媒与社会: 课程资料/传媒与社会/README.md
@@ -167,11 +200,9 @@ nav:
   - 体育赞助: 课程资料/体育赞助/README.md
   - 体育运动中的美学鉴赏: 课程资料/体育运动中的美学鉴赏/README.md
   - 体育运动的美学鉴赏: 课程资料/体育运动的美学鉴赏/README.md
-  - 体育题库: 课程资料/体育题库/README.md
   - 供应链建模与优化: 课程资料/供应链建模与优化/README.md
   - 供应链金融: 课程资料/供应链金融/README.md
   - 俄罗斯文学艺术精品赏析: 课程资料/俄罗斯文学艺术精品赏析/README.md
-  - 俄罗斯语言与文化: 课程资料/俄罗斯语言与文化/README.md
   - 保险与民生: 课程资料/保险与民生/README.md
   - 保险学概论: 课程资料/保险学概论/README.md
   - 保险法: 课程资料/保险法/README.md
@@ -189,12 +220,8 @@ nav:
   - 公共危机案例分析: 课程资料/公共危机案例分析/README.md
   - 公共危机案例剖析与人类生存策略: 课程资料/公共危机案例剖析与人类生存策略/README.md
   - 公共支出分析: 课程资料/公共支出分析/README.md
-  - 公共支出分析（ww）: 课程资料/公共支出分析（ww）/README.md
   - 公共政策前沿与决策模拟: 课程资料/公共政策前沿与决策模拟/README.md
-  - 公共政策学（dy）: 课程资料/公共政策学（dy）/README.md
   - 公共管理: 课程资料/公共管理/README.md
-  - 公共经济学（ff）: 课程资料/公共经济学（ff）/README.md
-  - 公共薪酬管理: 课程资料/公共薪酬管理/README.md
   - 公共项目管理: 课程资料/公共项目管理/README.md
   - 公关策划与媒介关系: 课程资料/公关策划与媒介关系/README.md
   - 公司创业管理: 课程资料/公司创业管理/README.md
@@ -202,7 +229,6 @@ nav:
   - 公司治理: 课程资料/公司治理/README.md
   - 公司金融: 课程资料/公司金融/README.md
   - 养老保障: 课程资料/养老保障/README.md
-  - 军理: 课程资料/军理/README.md
   - 冬季奥林匹克运动: 课程资料/冬季奥林匹克运动/README.md
   - 冬季奥林匹运动: 课程资料/冬季奥林匹运动/README.md
   - 决策与优化: 课程资料/决策与优化/README.md
@@ -224,10 +250,8 @@ nav:
   - 区块链与数字货币: 课程资料/区块链与数字货币/README.md
   - 区块链技术与应用: 课程资料/区块链技术与应用/README.md
   - 区域经济学: 课程资料/区域经济学/README.md
-  - 区域经济学（yw&dhw）: 课程资料/区域经济学（yw&dhw）/README.md
   - 博弈论: 课程资料/博弈论/README.md
   - 博弈论与信息经济学: 课程资料/博弈论与信息经济学/README.md
-  - 博弈论（wqz）: 课程资料/博弈论（wqz）/README.md
   - 发展心理学: 课程资料/发展心理学/README.md
   - 发展社会学: 课程资料/发展社会学/README.md
   - 发展经济学: 课程资料/发展经济学/README.md
@@ -246,7 +270,6 @@ nav:
   - 商业决策与模拟: 课程资料/商业决策与模拟/README.md
   - 商业经济学: 课程资料/商业经济学/README.md
   - 商业银行经营学: 课程资料/商业银行经营学/README.md
-  - 商业银行经营学（xc）: 课程资料/商业银行经营学（xc）/README.md
   - 商务英语: 课程资料/商务英语/README.md
   - 商务英语 中级: 课程资料/商务英语 中级/README.md
   - 商务英语 高级: 课程资料/商务英语 高级/README.md
@@ -262,7 +285,6 @@ nav:
   - 国际商务环境: 课程资料/国际商务环境/README.md
   - 国际商务谈判: 课程资料/国际商务谈判/README.md
   - 国际商法: 课程资料/国际商法/README.md
-  - 国际商法（lhm）: 课程资料/国际商法（lhm）/README.md
   - 国际市场营销: 课程资料/国际市场营销/README.md
   - 国际政治经济与时事热点分析: 课程资料/国际政治经济与时事热点分析/README.md
   - 国际服务贸易: 课程资料/国际服务贸易/README.md
@@ -302,9 +324,7 @@ nav:
   - 大学生性与生殖健康: 课程资料/大学生性与生殖健康/README.md
   - 大学生职业与规划: 课程资料/大学生职业与规划/README.md
   - 大学舞蹈: 课程资料/大学舞蹈/README.md
-  - 大学英语交流: 课程资料/大学英语交流/README.md
   - 大学英语交流2: 课程资料/大学英语交流2/README.md
-  - 大学计算机基础: 课程资料/大学计算机基础/README.md
   - 大学音乐: 课程资料/大学音乐/README.md
   - 大数据与公共管理: 课程资料/大数据与公共管理/README.md
   - 大数据与社会: 课程资料/大数据与社会/README.md
@@ -319,7 +339,6 @@ nav:
   - 媒体经济学: 课程资料/媒体经济学/README.md
   - 学术英语: 课程资料/学术英语/README.md
   - 宋词鉴赏: 课程资料/宋词鉴赏/README.md
-  - 宏观经济学: 课程资料/宏观经济学/README.md
   - 实变函数: 课程资料/实变函数/README.md
   - 实证资产定价: 课程资料/实证资产定价/README.md
   - 实验经济学: 课程资料/实验经济学/README.md
@@ -364,12 +383,8 @@ nav:
   - 影视艺术概论: 课程资料/影视艺术概论/README.md
   - 微积分: 课程资料/微积分/README.md
   - 微积分上: 课程资料/微积分上/README.md
-  - 微积分（高等数学）: 课程资料/微积分（高等数学）/README.md
-  - 微观经济学: 课程资料/微观经济学/README.md
-  - 微观计量经济学（rr）: 课程资料/微观计量经济学（rr）/README.md
   - 心理学与生活: 课程资料/心理学与生活/README.md
   - 心理学与电影: 课程资料/心理学与电影/README.md
-  - 思想道德与法治: 课程资料/思想道德与法治/README.md
   - 性与性别研究: 课程资料/性与性别研究/README.md
   - 戏剧与伦理: 课程资料/戏剧与伦理/README.md
   - 戏剧鉴赏: 课程资料/戏剧鉴赏/README.md
@@ -385,7 +400,6 @@ nav:
   - 技术创新管理: 课程资料/技术创新管理/README.md
   - 投资学: 课程资料/投资学/README.md
   - 投资银行学: 课程资料/投资银行学/README.md
-  - 投资银行学（wy）: 课程资料/投资银行学（wy）/README.md
   - 抽样技术: 课程资料/抽样技术/README.md
   - 拓展训练: 课程资料/拓展训练/README.md
   - 排球: 课程资料/排球/README.md
@@ -394,7 +408,6 @@ nav:
   - 政府单位内部控制: 课程资料/政府单位内部控制/README.md
   - 政府采购管理: 课程资料/政府采购管理/README.md
   - 政府预算管理: 课程资料/政府预算管理/README.md
-  - 政府预算（wfr&dy）: 课程资料/政府预算（wfr&dy）/README.md
   - 政治学通论: 课程资料/政治学通论/README.md
   - 政治经济学: 课程资料/政治经济学/README.md
   - 数字贸易: 课程资料/数字贸易/README.md
@@ -428,13 +441,11 @@ nav:
   - 日本文化入门: 课程资料/日本文化入门/README.md
   - 日本社会与文化: 课程资料/日本社会与文化/README.md
   - 日本语言与文化: 课程资料/日本语言与文化/README.md
-  - 日本语言与文化(aw): 课程资料/日本语言与文化(aw)/README.md
   - 日语: 课程资料/日语/README.md
   - 时间序列分析: 课程资料/时间序列分析/README.md
   - 普通心理学: 课程资料/普通心理学/README.md
   - 智慧城市与大数据应用: 课程资料/智慧城市与大数据应用/README.md
   - 最优化方法: 课程资料/最优化方法/README.md
-  - 最优化方法（ff）: 课程资料/最优化方法（ff）/README.md
   - 服务管理: 课程资料/服务管理/README.md
   - 服务营销: 课程资料/服务营销/README.md
   - 未来城市: 课程资料/未来城市/README.md
@@ -442,12 +453,9 @@ nav:
   - 梦的心理解析: 课程资料/梦的心理解析/README.md
   - 棒垒球: 课程资料/棒垒球/README.md
   - 概率论: 课程资料/概率论/README.md
-  - 概率论与数理统计: 课程资料/概率论与数理统计/README.md
   - 欧洲文化入门: 课程资料/欧洲文化入门/README.md
   - 比较政治学: 课程资料/比较政治学/README.md
   - 比较文学: 课程资料/比较文学/README.md
-  - 比较税制（wfr）: 课程资料/比较税制（wfr）/README.md
-  - 毛概: 课程资料/毛概/README.md
   - 毛泽东思想和中国特色社会主义理论体系概论: 课程资料/毛泽东思想和中国特色社会主义理论体系概论/README.md
   - 民法分论: 课程资料/民法分论/README.md
   - 民法总论: 课程资料/民法总论/README.md
@@ -492,9 +500,7 @@ nav:
   - 社会保障管理概论: 课程资料/社会保障管理概论/README.md
   - 社会学: 课程资料/社会学/README.md
   - 社会学概论: 课程资料/社会学概论/README.md
-  - 社会学概论(wjc): 课程资料/社会学概论(wjc)/README.md
   - 社会心理学: 课程资料/社会心理学/README.md
-  - 社会心理学（fxy）: 课程资料/社会心理学（fxy）/README.md
   - 社会政策: 课程资料/社会政策/README.md
   - 社会福利思想: 课程资料/社会福利思想/README.md
   - 社区概论: 课程资料/社区概论/README.md
@@ -506,10 +512,8 @@ nav:
   - 税收学: 课程资料/税收学/README.md
   - 税收筹划: 课程资料/税收筹划/README.md
   - 税收筹划战略分析: 课程资料/税收筹划战略分析/README.md
-  - 税收管理: 课程资料/税收管理/README.md
   - 税法: 课程资料/税法/README.md
   - 税赋史: 课程资料/税赋史/README.md
-  - 空间解析几何（zyr）: 课程资料/空间解析几何（zyr）/README.md
   - 管理会计: 课程资料/管理会计/README.md
   - 管理信息系统: 课程资料/管理信息系统/README.md
   - 管理决策分析: 课程资料/管理决策分析/README.md
@@ -522,21 +526,16 @@ nav:
   - 素质拓展: 课程资料/素质拓展/README.md
   - 红楼梦文化研究: 课程资料/红楼梦文化研究/README.md
   - 红楼梦讲读: 课程资料/红楼梦讲读/README.md
-  - 线性代数: 课程资料/线性代数/README.md
-  - 组织经济学（wqz）: 课程资料/组织经济学（wqz）/README.md
   - 组织行为学: 课程资料/组织行为学/README.md
   - 经济学前沿文献导读: 课程资料/经济学前沿文献导读/README.md
   - 经济学前沿文献阅读: 课程资料/经济学前沿文献阅读/README.md
-  - 经济学原理: 课程资料/经济学原理/README.md
   - 经济心理学: 课程资料/经济心理学/README.md
   - 经济法通论: 课程资料/经济法通论/README.md
-  - 统计学: 课程资料/统计学/README.md
   - 统计思维怎么样啊！！！: 课程资料/统计思维怎么样啊！！！/README.md
   - 绩效管理: 课程资料/绩效管理/README.md
   - 综合素质: 课程资料/综合素质/README.md
   - 网球: 课程资料/网球/README.md
   - 网络新闻: 课程资料/网络新闻/README.md
-  - 美国社会与文化: 课程资料/美国社会与文化/README.md
   - 美国社会文化: 课程资料/美国社会文化/README.md
   - 职业与发展: 课程资料/职业与发展/README.md
   - 能源经济管理与可持续发展: 课程资料/能源经济管理与可持续发展/README.md
@@ -563,9 +562,7 @@ nav:
   - 营销风险管理: 课程资料/营销风险管理/README.md
   - 行为金融学: 课程资料/行为金融学/README.md
   - 衍生金融工具: 课程资料/衍生金融工具/README.md
-  - 西方经济学流派（sxc）: 课程资料/西方经济学流派（sxc）/README.md
   - 西方经济学说史: 课程资料/西方经济学说史/README.md
-  - 西方经济思想史（zsy）: 课程资料/西方经济思想史（zsy）/README.md
   - 西方美术史: 课程资料/西方美术史/README.md
   - 西方财政思想史: 课程资料/西方财政思想史/README.md
   - 计算和统计学习理论: 课程资料/计算和统计学习理论/README.md
@@ -575,21 +572,17 @@ nav:
   - 计算机网络: 课程资料/计算机网络/README.md
   - 计算机网络课程设计: 课程资料/计算机网络课程设计/README.md
   - 计算机视觉: 课程资料/计算机视觉/README.md
-  - 计量经济学: 课程资料/计量经济学/README.md
   - 证券投资学: 课程资料/证券投资学/README.md
   - 证券投资心理学: 课程资料/证券投资心理学/README.md
   - 语音: 课程资料/语音/README.md
   - 课程名称: 课程资料/课程名称/README.md
   - 调查与数据分析: 课程资料/调查与数据分析/README.md
   - 财产保险学: 课程资料/财产保险学/README.md
-  - 财务会计实务与案例: 课程资料/财务会计实务与案例/README.md
   - 财务会计实训实操: 课程资料/财务会计实训实操/README.md
   - 财务报告分析: 课程资料/财务报告分析/README.md
-  - 财务报告分析(chz): 课程资料/财务报告分析(chz)/README.md
   - 财务管理: 课程资料/财务管理/README.md
   - 财务管理学: 课程资料/财务管理学/README.md
   - 财政学概论: 课程资料/财政学概论/README.md
-  - 财政金融学（rr）: 课程资料/财政金融学（rr）/README.md
   - 财税热点问题: 课程资料/财税热点问题/README.md
   - 财经变革与大国兴衰: 课程资料/财经变革与大国兴衰/README.md
   - 财经大数据与价值管理: 课程资料/财经大数据与价值管理/README.md
@@ -602,7 +595,6 @@ nav:
   - 资产定价 徐雅华: 课程资料/资产定价 徐雅华/README.md
   - 资产评估: 课程资料/资产评估/README.md
   - 资本论与经济经典著作选读: 课程资料/资本论与经济经典著作选读/README.md
-  - 资本论选读（zsy）: 课程资料/资本论选读（zsy）/README.md
   - 资源与环境管理: 课程资料/资源与环境管理/README.md
   - 走进定量分析的殿堂: 课程资料/走进定量分析的殿堂/README.md
   - 足球: 课程资料/足球/README.md
@@ -613,9 +605,7 @@ nav:
   - 运动健身: 课程资料/运动健身/README.md
   - 运动心理学: 课程资料/运动心理学/README.md
   - 运筹学: 课程资料/运筹学/README.md
-  - 运筹学（lxl）: 课程资料/运筹学（lxl）/README.md
   - 运营管理: 课程资料/运营管理/README.md
-  - 近现代史纲: 课程资料/近现代史纲/README.md
   - 这是啥课哇: 课程资料/这是啥课哇/README.md
   - 进出口业务: 课程资料/进出口业务/README.md
   - 选举法: 课程资料/选举法/README.md
@@ -627,7 +617,6 @@ nav:
   - 金融中介学: 课程资料/金融中介学/README.md
   - 金融企业会计: 课程资料/金融企业会计/README.md
   - 金融史：国际视角下的中国: 课程资料/金融史：国际视角下的中国/README.md
-  - 金融学: 课程资料/金融学/README.md
   - 金融学概论: 课程资料/金融学概论/README.md
   - 金融工程: 课程资料/金融工程/README.md
   - 金融工程概论: 课程资料/金融工程概论/README.md
@@ -649,7 +638,6 @@ nav:
   - 领导科学与艺术: 课程资料/领导科学与艺术/README.md
   - 风险投资: 课程资料/风险投资/README.md
   - 风险管理: 课程资料/风险管理/README.md
-  - 马原: 课程资料/马原/README.md
   - 高等代数: 课程资料/高等代数/README.md
   - 高等数学: 课程资料/高等数学/README.md
   - 高级财务会计: 课程资料/高级财务会计/README.md
