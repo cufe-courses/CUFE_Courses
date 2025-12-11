@@ -13,4 +13,3 @@
 - 📄 [lecture7_public_expenditure.pdf](lecture7_public_expenditure.pdf)
 - 📄 [lecture8_new_optimal_tax.pdf](lecture8_new_optimal_tax.pdf)
 - 📄 [lecture9_commdity_tax.pdf](lecture9_commdity_tax.pdf)
-- 📄 [公共经济学merge.pdf](%E5%85%AC%E5%85%B1%E7%BB%8F%E6%B5%8E%E5%AD%A6merge.pdf)

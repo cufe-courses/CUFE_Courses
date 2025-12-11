@@ -12,3 +12,4 @@
 - 📄 [Lecture_7.pdf](Lecture_7.pdf)
 - 📄 [Lecture_8.pdf](Lecture_8.pdf)
 - 📄 [Lecture_9.pdf](Lecture_9.pdf)
+- 📄 [最优化教材.pdf](%E6%9C%80%E4%BC%98%E5%8C%96%E6%95%99%E6%9D%90.pdf)
