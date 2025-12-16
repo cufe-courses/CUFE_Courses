@@ -131,9 +131,9 @@ Fork 本项目，添加你的资料后提交 PR
 
 ---
 
-:material-email:{ .lg } **方式三：邮件**
+:material-email:{ .lg } **方式三：邮件(推荐)**
 
-发送邮件至 cufe_courses@163.com
+发送邮件至 luzhiyu@email.cufe.edu.cn
 
 </div>
 
@@ -147,7 +147,7 @@ Fork 本项目，添加你的资料后提交 PR
 !!! danger "重要声明"
 
     - 本项目建立的初衷是为了方便同学们更好地学习相关课程。**严禁用于任何商业用途！**
-    - **如果本项目有任何侵权行为，请发送邮件至 cufe_courses@163.com，我们将在第一时间进行回复和处理。**
+    - **如果本项目有任何侵权行为，请发送邮件至 luzhiyu@email.cufe.edu.cn，将在第一时间进行回复和处理。**
 
 ---
 
