@@ -46,6 +46,13 @@ markdown_extensions:
     permalink: true
 nav:
 - 首页: index.md
+- 实用工具:
+  - 工具概览: tools/index.md
+  - 校园网自动登录: tools/CUFELonglive.md
+  - 经济学AI使用指南: tools/EconLLM-Lab.md
+  - PDF AI OCR翻译: tools/PDF-Translator.md
+  - AI文献爬虫: tools/JournalFetcher.md
+  - 论文摘要生成器: tools/PaperDigest.md
 - 中财模版:
   - 中财PPTlatex模版: 中财模版/中财PPTlatex模版/README.md
   - 中财PPTlatex模版2: 中财模版/中财PPTlatex模版2/README.md
