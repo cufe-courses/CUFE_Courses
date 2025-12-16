@@ -26,7 +26,7 @@
 
     [:octicons-arrow-right-24: 下载模版](中财PPT模版（论文汇报）/README.md)
 
--   :material-language-latex:{ .lg .middle } **LaTeX Beamer 模版**
+-   :material-file-code:{ .lg .middle } **LaTeX Beamer 模版**
 
     ---
 
@@ -34,7 +34,7 @@
 
     [:octicons-arrow-right-24: 查看模版](中财PPTlatex模版/README.md)
 
--   :material-language-latex:{ .lg .middle } **LaTeX Beamer 模版 2**
+-   :material-file-code-outline:{ .lg .middle } **LaTeX Beamer 模版 2**
 
     ---
 
@@ -62,7 +62,7 @@
 
     [:octicons-arrow-right-24: 下载模版](中财论文word模板/README.md)
 
--   :material-language-latex:{ .lg .middle } **LaTeX 论文模版**
+-   :material-file-document-edit:{ .lg .middle } **LaTeX 论文模版**
 
     ---
 
