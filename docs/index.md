@@ -161,6 +161,6 @@ Fork 本项目，添加你的资料后提交 PR
 
 <div style="text-align: center; margin-top: 3rem; padding: 2rem 0; border-top: 1px solid #eee;">
 <p style="color: #999; font-size: 0.9rem;">
-Made with :material-heart: by CUFE Students
+Made by <a href="https://zhiyu-lu.com" target="_blank">Lu Zhiyu</a>
 </p>
 </div>
