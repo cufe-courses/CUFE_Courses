@@ -9,24 +9,42 @@ theme:
   name: material
   language: zh
   custom_dir: overrides
+  icon:
+    logo: material/school
+    repo: fontawesome/brands/github
   palette:
   - scheme: default
+    primary: deep purple
+    accent: amber
     toggle:
       icon: material/brightness-7
       name: 切换到夜间模式
   - scheme: slate
+    primary: deep purple
+    accent: amber
     toggle:
       icon: material/brightness-4
       name: 切换到日间模式
+  font:
+    text: Noto Sans SC
+    code: JetBrains Mono
   features:
   - navigation.tabs
+  - navigation.tabs.sticky
   - navigation.sections
+  - navigation.expand
   - navigation.top
+  - navigation.indexes
   - search.suggest
   - search.highlight
   - search.share
   - content.code.copy
+  - content.code.annotate
+  - content.tabs.link
   - navigation.instant
+  - navigation.tracking
+  - toc.follow
+  - announce.dismiss
 plugins:
 - search:
     lang:
@@ -38,12 +56,44 @@ plugins:
 markdown_extensions:
 - pymdownx.highlight:
     anchor_linenums: true
+    line_spans: __span
+    pygments_lang_class: true
 - pymdownx.inlinehilite
 - pymdownx.snippets
-- pymdownx.superfences
+- pymdownx.superfences:
+    custom_fences:
+      - name: mermaid
+        class: mermaid
+        format: !!python/name:pymdownx.superfences.fence_code_format
+- pymdownx.tabbed:
+    alternate_style: true
+- pymdownx.details
+- pymdownx.critic
+- pymdownx.caret
+- pymdownx.keys
+- pymdownx.mark
+- pymdownx.tilde
+- pymdownx.emoji:
+    emoji_index: !!python/name:material.extensions.emoji.twemoji
+    emoji_generator: !!python/name:material.extensions.emoji.to_svg
 - admonition
+- attr_list
+- md_in_html
+- def_list
+- footnotes
+- tables
 - toc:
     permalink: true
+    toc_depth: 3
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/cufe-courses/CUFE_Courses
+    - icon: fontawesome/solid/envelope
+      link: mailto:cufe_courses@163.com
+  generator: false
+extra_css:
+  - stylesheets/extra.css
 nav:
 - 首页: index.md
 - 实用工具:

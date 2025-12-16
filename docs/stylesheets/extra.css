@@ -1,0 +1,183 @@
+/* 自定义样式 - 中财课程分享 */
+
+/* 主色调变量 */
+:root {
+  --md-primary-fg-color: #673ab7;
+  --md-primary-fg-color--light: #9575cd;
+  --md-primary-fg-color--dark: #512da8;
+  --md-accent-fg-color: #ffc107;
+}
+
+/* 夜间模式 */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #9575cd;
+  --md-accent-fg-color: #ffd54f;
+}
+
+/* 首页标题样式 */
+.md-content h1 {
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+/* 卡片样式增强 */
+.md-typeset .grid.cards > ul > li {
+  border-radius: 12px;
+  transition: all 0.3s ease;
+  border: 1px solid rgba(0,0,0,0.08);
+}
+
+.md-typeset .grid.cards > ul > li:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+  border-color: var(--md-primary-fg-color--light);
+}
+
+[data-md-color-scheme="slate"] .md-typeset .grid.cards > ul > li {
+  border-color: rgba(255,255,255,0.08);
+}
+
+[data-md-color-scheme="slate"] .md-typeset .grid.cards > ul > li:hover {
+  box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+}
+
+/* 图标大小调整 */
+.md-typeset .grid.cards .lg {
+  font-size: 2rem;
+  color: var(--md-primary-fg-color);
+}
+
+/* Admonition 样式优化 */
+.md-typeset .admonition {
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.md-typeset .admonition-title {
+  font-weight: 600;
+}
+
+/* 引用块样式 */
+.md-typeset blockquote {
+  border-left: 4px solid var(--md-primary-fg-color);
+  background: rgba(103, 58, 183, 0.05);
+  padding: 1rem 1.5rem;
+  border-radius: 0 8px 8px 0;
+}
+
+[data-md-color-scheme="slate"] .md-typeset blockquote {
+  background: rgba(149, 117, 205, 0.1);
+}
+
+/* 表格样式优化 */
+.md-typeset table:not([class]) {
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.md-typeset table:not([class]) th {
+  background: var(--md-primary-fg-color);
+  color: white;
+  font-weight: 600;
+}
+
+/* 代码块样式 */
+.md-typeset pre {
+  border-radius: 8px;
+}
+
+/* 按钮样式 */
+.md-typeset .md-button {
+  border-radius: 8px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.md-typeset .md-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(103, 58, 183, 0.3);
+}
+
+/* Tab 标签样式 */
+.md-typeset .tabbed-labels {
+  border-radius: 8px 8px 0 0;
+}
+
+.md-typeset .tabbed-labels > label {
+  font-weight: 500;
+}
+
+/* 导航栏样式 */
+.md-tabs__link {
+  font-weight: 500;
+}
+
+/* 搜索框样式 */
+.md-search__input {
+  border-radius: 8px;
+}
+
+/* 页脚样式 */
+.md-footer {
+  background: linear-gradient(135deg, #673ab7 0%, #512da8 100%);
+}
+
+/* 徽章容器 */
+.md-typeset p:has(img[alt*="shield"]) {
+  text-align: center;
+}
+
+/* 响应式调整 */
+@media screen and (max-width: 76.1875em) {
+  .md-typeset .grid.cards > ul {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media screen and (min-width: 76.25em) {
+  .md-typeset .grid.cards > ul {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* 滚动条样式 */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(103, 58, 183, 0.3);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(103, 58, 183, 0.5);
+}
+
+/* 链接悬停效果 */
+.md-typeset a:not(.md-button):hover {
+  color: var(--md-accent-fg-color);
+}
+
+/* 课程评价页面样式 */
+.md-typeset hr {
+  margin: 2rem 0;
+  border-color: rgba(103, 58, 183, 0.2);
+}
+
+/* 文件列表样式 */
+.md-typeset ul:has(> li > a[href*=".pdf"]),
+.md-typeset ul:has(> li > a[href*=".pptx"]),
+.md-typeset ul:has(> li > a[href*=".docx"]) {
+  background: rgba(103, 58, 183, 0.03);
+  padding: 1rem;
+  border-radius: 8px;
+  border-left: 3px solid var(--md-primary-fg-color);
+}
+
