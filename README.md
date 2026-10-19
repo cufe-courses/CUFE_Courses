@@ -51,7 +51,7 @@ docs/
 
 1. Fork本项目，提交Pull Request。
 2. 或直接附加在[Issue](https://github.com/CoolPhilChen/SJTU-Courses/issues)中，由维护者进行添加。
-3. 或发送邮件至cufe_courses@163.com，由维护者进行添加。
+3. 或发送邮件至luzhiyu@email.cufe.edu.cn，由维护者进行添加。
 4. 后续也许还会开发更加方便的贡献方式。
 
 贡献注意：请对课程老师进行匿名化处理，如只是用首拼，以保护老师隐私
